@@ -3,27 +3,33 @@
     <title>MathiasPerez</title>
     <link href="https://theredtoad.github.io./feed.xml" rel="self" />
     <link href="https://theredtoad.github.io." />
-    <updated>2024-02-21T10:24:52+01:00</updated>
+    <updated>2024-02-21T13:42:44+01:00</updated>
     <author>
         <name>MathiasPerez</name>
     </author>
     <id>https://theredtoad.github.io.</id>
 
     <entry>
-        <title>Banana</title>
+        <title>Chase The Wind</title>
         <author>
             <name>MathiasPerez</name>
         </author>
         <link href="https://theredtoad.github.io./banana.html"/>
         <id>https://theredtoad.github.io./banana.html</id>
         <media:content url="https://theredtoad.github.io./media/posts/2/axel-removebg-preview.png" medium="image" />
+            <category term="GameProject"/>
 
-        <updated>2024-02-21T10:24:52+01:00</updated>
-            <summary></summary>
+        <updated>2024-02-21T13:42:44+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://theredtoad.github.io./media/posts/2/axel-removebg-preview.png" alt="" />
+                    ADADADA
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://theredtoad.github.io./media/posts/2/axel-removebg-preview.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://theredtoad.github.io./media/posts/2/1378869-Kim-Chaewon-Kim-Chae-won-LE-SSERAFIM-Kpop.jpg" alt="" width="416" height="234" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://theredtoad.github.io./media/posts/2/responsive/1378869-Kim-Chaewon-Kim-Chae-won-LE-SSERAFIM-Kpop-xs.jpg 384w ,https://theredtoad.github.io./media/posts/2/responsive/1378869-Kim-Chaewon-Kim-Chae-won-LE-SSERAFIM-Kpop-sm.jpg 600w ,https://theredtoad.github.io./media/posts/2/responsive/1378869-Kim-Chaewon-Kim-Chae-won-LE-SSERAFIM-Kpop-md.jpg 768w ,https://theredtoad.github.io./media/posts/2/responsive/1378869-Kim-Chaewon-Kim-Chae-won-LE-SSERAFIM-Kpop-lg.jpg 1200w ,https://theredtoad.github.io./media/posts/2/responsive/1378869-Kim-Chaewon-Kim-Chae-won-LE-SSERAFIM-Kpop-xl.jpg 1600w"></figure>
+                <p>ADADADA</p>
             ]]>
         </content>
     </entry>
@@ -34,18 +40,19 @@
         </author>
         <link href="https://theredtoad.github.io./pannkakstartan.html"/>
         <id>https://theredtoad.github.io./pannkakstartan.html</id>
-        <media:content url="https://theredtoad.github.io./media/posts/1/lalalalalala.jpg" medium="image" />
+        <media:content url="https://theredtoad.github.io./media/posts/1/pannkaksthumbnail-2.png" medium="image" />
+            <category term="GameProject"/>
 
-        <updated>2024-02-21T10:10:15+01:00</updated>
+        <updated>2024-02-21T13:35:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://theredtoad.github.io./media/posts/1/lalalalalala.jpg" alt="" />
+                        <img src="https://theredtoad.github.io./media/posts/1/pannkaksthumbnail-2.png" alt="" />
                     hejhej
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://theredtoad.github.io./media/posts/1/lalalalalala.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://theredtoad.github.io./media/posts/1/pannkaksthumbnail-2.png" class="type:primaryImage" alt="" /></p>
                 <p>hejhej</p>
 <p> </p>
 <p> </p>
