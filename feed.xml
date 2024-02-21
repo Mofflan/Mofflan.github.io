@@ -3,10 +3,30 @@
     <title>MathiasPerez</title>
     <link href="https://theredtoad.github.io./feed.xml" rel="self" />
     <link href="https://theredtoad.github.io." />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-02-21T10:04:46+01:00</updated>
     <author>
         <name>MathiasPerez</name>
     </author>
     <id>https://theredtoad.github.io.</id>
 
+    <entry>
+        <title>PannkaksTårtan</title>
+        <author>
+            <name>MathiasPerez</name>
+        </author>
+        <link href="https://theredtoad.github.io./pannkakstartan.html"/>
+        <id>https://theredtoad.github.io./pannkakstartan.html</id>
+
+        <updated>2024-02-21T10:04:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                    hejhej
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hejhej</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
