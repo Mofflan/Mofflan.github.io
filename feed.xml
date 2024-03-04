@@ -3,21 +3,24 @@
     <title>MathiasPerez</title>
     <link href="https://mathiasperez.dev/feed.xml" rel="self" />
     <link href="https://mathiasperez.dev" />
-    <updated>2024-03-04T14:39:24+01:00</updated>
+    <updated>2024-03-04T15:15:06+01:00</updated>
     <author>
         <name>MathiasPerez</name>
     </author>
     <id>https://mathiasperez.dev</id>
 
     <entry>
-        <title>testing babyxxx</title>
+        <title>Dissonance</title>
         <author>
             <name>MathiasPerez</name>
         </author>
-        <link href="https://mathiasperez.dev/testing-baby.html"/>
-        <id>https://mathiasperez.dev/testing-baby.html</id>
+        <link href="https://mathiasperez.dev/dissonance.html"/>
+        <id>https://mathiasperez.dev/dissonance.html</id>
+        <media:content url="https://mathiasperez.dev/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif" medium="image" />
+            <category term="TGE"/>
+            <category term="GameProject"/>
 
-        <updated>2024-03-04T09:28:16+01:00</updated>
+        <updated>2024-03-04T15:15:06+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -26,12 +29,13 @@
         <author>
             <name>MathiasPerez</name>
         </author>
-        <link href="https://mathiasperez.dev/banana.html"/>
-        <id>https://mathiasperez.dev/banana.html</id>
+        <link href="https://mathiasperez.dev/chase-the-wind.html"/>
+        <id>https://mathiasperez.dev/chase-the-wind.html</id>
         <media:content url="https://mathiasperez.dev/media/posts/2/flyplan.gif" medium="image" />
+            <category term="Unity"/>
             <category term="GameProject"/>
 
-        <updated>2024-03-04T14:39:24+01:00</updated>
+        <updated>2024-03-04T15:08:01+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/2/flyplan.gif" alt="" />
@@ -53,9 +57,10 @@
         <link href="https://mathiasperez.dev/pannkakstartan.html"/>
         <id>https://mathiasperez.dev/pannkakstartan.html</id>
         <media:content url="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" medium="image" />
+            <category term="TGE"/>
             <category term="GameProject"/>
 
-        <updated>2024-03-04T13:50:06+01:00</updated>
+        <updated>2024-03-04T15:09:10+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" alt="" />
