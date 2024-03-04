@@ -3,7 +3,7 @@
     <title>MathiasPerez</title>
     <link href="https://TheRedToad.github.io/feed.xml" rel="self" />
     <link href="https://TheRedToad.github.io" />
-    <updated>2024-03-04T09:28:16+01:00</updated>
+    <updated>2024-03-04T14:13:17+01:00</updated>
     <author>
         <name>MathiasPerez</name>
     </author>
@@ -28,19 +28,19 @@
         </author>
         <link href="https://TheRedToad.github.io/banana.html"/>
         <id>https://TheRedToad.github.io/banana.html</id>
-        <media:content url="https://TheRedToad.github.io/media/posts/2/axel-removebg-preview.png" medium="image" />
+        <media:content url="https://TheRedToad.github.io/media/posts/2/flyplan.gif" medium="image" />
             <category term="GameProject"/>
 
-        <updated>2024-02-21T13:42:44+01:00</updated>
+        <updated>2024-03-04T14:13:17+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://TheRedToad.github.io/media/posts/2/axel-removebg-preview.png" alt="" />
+                        <img src="https://TheRedToad.github.io/media/posts/2/flyplan.gif" alt="" />
                     ADADADA
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://TheRedToad.github.io/media/posts/2/axel-removebg-preview.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://TheRedToad.github.io/media/posts/2/flyplan.gif" class="type:primaryImage" alt="" /></p>
                 <p>ADADADA</p>
             ]]>
         </content>
@@ -52,19 +52,19 @@
         </author>
         <link href="https://TheRedToad.github.io/pannkakstartan.html"/>
         <id>https://TheRedToad.github.io/pannkakstartan.html</id>
-        <media:content url="https://TheRedToad.github.io/media/posts/1/pannkaksthumbnail-2.png" medium="image" />
+        <media:content url="https://TheRedToad.github.io/media/posts/1/gifpannkakstorta-2.gif" medium="image" />
             <category term="GameProject"/>
 
-        <updated>2024-02-21T14:04:38+01:00</updated>
+        <updated>2024-03-04T13:50:06+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://TheRedToad.github.io/media/posts/1/pannkaksthumbnail-2.png" alt="" />
+                        <img src="https://TheRedToad.github.io/media/posts/1/gifpannkakstorta-2.gif" alt="" />
                     hejhej
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://TheRedToad.github.io/media/posts/1/pannkaksthumbnail-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://TheRedToad.github.io/media/posts/1/gifpannkakstorta-2.gif" class="type:primaryImage" alt="" /></p>
                 <p>hejhej</p>
 <p> </p>
 <p> </p>

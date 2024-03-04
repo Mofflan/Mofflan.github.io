@@ -27,7 +27,7 @@
             "title": "Chase The Wind",
             "summary": "ADADADA",
             "content_html": "<p>ADADADA</p>",
-            "image": "https://TheRedToad.github.io/media/posts/2/axel-removebg-preview.png",
+            "image": "https://TheRedToad.github.io/media/posts/2/flyplan.gif",
             "author": {
                 "name": "MathiasPerez"
             },
@@ -35,7 +35,7 @@
                    "GameProject"
             ],
             "date_published": "2024-02-21T10:06:41+01:00",
-            "date_modified": "2024-02-21T13:42:44+01:00"
+            "date_modified": "2024-03-04T14:13:17+01:00"
         },
         {
             "id": "https://TheRedToad.github.io/pannkakstartan.html",
@@ -43,7 +43,7 @@
             "title": "PannkaksTårtan",
             "summary": "hejhej",
             "content_html": "<p>hejhej</p>\n<p> </p>\n<p> </p>\n<figure class=\"post__image align-left\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://TheRedToad.github.io/media/posts/1/test.png\" alt=\"\" width=\"160\" height=\"127\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://TheRedToad.github.io/media/posts/1/responsive/test-xs.png 384w ,https://TheRedToad.github.io/media/posts/1/responsive/test-sm.png 600w ,https://TheRedToad.github.io/media/posts/1/responsive/test-md.png 768w ,https://TheRedToad.github.io/media/posts/1/responsive/test-lg.png 1200w ,https://TheRedToad.github.io/media/posts/1/responsive/test-xl.png 1600w\"></figure>",
-            "image": "https://TheRedToad.github.io/media/posts/1/pannkaksthumbnail-2.png",
+            "image": "https://TheRedToad.github.io/media/posts/1/gifpannkakstorta-2.gif",
             "author": {
                 "name": "MathiasPerez"
             },
@@ -51,7 +51,7 @@
                    "GameProject"
             ],
             "date_published": "2024-02-21T10:04:46+01:00",
-            "date_modified": "2024-02-21T14:04:38+01:00"
+            "date_modified": "2024-03-04T13:50:06+01:00"
         }
     ]
 }
