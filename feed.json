@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "MathiasPerez",
     "description": "",
-    "home_page_url": "https://mathiasperez.dev",
-    "feed_url": "https://mathiasperez.dev/feed.json",
+    "home_page_url": "https://TheRedToad.github.io",
+    "feed_url": "https://TheRedToad.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "MathiasPerez"
     },
     "items": [
         {
-            "id": "https://mathiasperez.dev/testing-baby.html",
-            "url": "https://mathiasperez.dev/testing-baby.html",
+            "id": "https://TheRedToad.github.io/testing-baby.html",
+            "url": "https://TheRedToad.github.io/testing-baby.html",
             "title": "testing babyxxx",
             "author": {
                 "name": "MathiasPerez"
@@ -22,12 +22,12 @@
             "date_modified": "2024-03-04T09:28:16+01:00"
         },
         {
-            "id": "https://mathiasperez.dev/banana.html",
-            "url": "https://mathiasperez.dev/banana.html",
+            "id": "https://TheRedToad.github.io/banana.html",
+            "url": "https://TheRedToad.github.io/banana.html",
             "title": "Chase The Wind",
             "summary": "ADADADA",
             "content_html": "<p>ADADADA</p>",
-            "image": "https://mathiasperez.dev/media/posts/2/axel-removebg-preview.png",
+            "image": "https://TheRedToad.github.io/media/posts/2/axel-removebg-preview.png",
             "author": {
                 "name": "MathiasPerez"
             },
@@ -38,12 +38,12 @@
             "date_modified": "2024-02-21T13:42:44+01:00"
         },
         {
-            "id": "https://mathiasperez.dev/pannkakstartan.html",
-            "url": "https://mathiasperez.dev/pannkakstartan.html",
+            "id": "https://TheRedToad.github.io/pannkakstartan.html",
+            "url": "https://TheRedToad.github.io/pannkakstartan.html",
             "title": "PannkaksTårtan",
             "summary": "hejhej",
-            "content_html": "<p>hejhej</p>\n<p> </p>\n<p> </p>\n<figure class=\"post__image align-left\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://mathiasperez.dev/media/posts/1/test.png\" alt=\"\" width=\"160\" height=\"127\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://mathiasperez.dev/media/posts/1/responsive/test-xs.png 384w ,https://mathiasperez.dev/media/posts/1/responsive/test-sm.png 600w ,https://mathiasperez.dev/media/posts/1/responsive/test-md.png 768w ,https://mathiasperez.dev/media/posts/1/responsive/test-lg.png 1200w ,https://mathiasperez.dev/media/posts/1/responsive/test-xl.png 1600w\"></figure>",
-            "image": "https://mathiasperez.dev/media/posts/1/pannkaksthumbnail-2.png",
+            "content_html": "<p>hejhej</p>\n<p> </p>\n<p> </p>\n<figure class=\"post__image align-left\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://TheRedToad.github.io/media/posts/1/test.png\" alt=\"\" width=\"160\" height=\"127\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://TheRedToad.github.io/media/posts/1/responsive/test-xs.png 384w ,https://TheRedToad.github.io/media/posts/1/responsive/test-sm.png 600w ,https://TheRedToad.github.io/media/posts/1/responsive/test-md.png 768w ,https://TheRedToad.github.io/media/posts/1/responsive/test-lg.png 1200w ,https://TheRedToad.github.io/media/posts/1/responsive/test-xl.png 1600w\"></figure>",
+            "image": "https://TheRedToad.github.io/media/posts/1/pannkaksthumbnail-2.png",
             "author": {
                 "name": "MathiasPerez"
             },
