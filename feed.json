@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "MathiasPerez",
     "description": "",
-    "home_page_url": "https://theredtoad.github.io",
-    "feed_url": "https://theredtoad.github.io/feed.json",
+    "home_page_url": "https://mathiasperez.dev",
+    "feed_url": "https://mathiasperez.dev/feed.json",
     "user_comment": "",
-    "icon": "https://theredtoad.github.io/media/website/Illustration2.png",
+    "icon": "https://mathiasperez.dev/media/website/Illustration2.png",
     "author": {
         "name": "Mathias"
     },
     "items": [
         {
-            "id": "https://theredtoad.github.io/about-me/",
-            "url": "https://theredtoad.github.io/about-me/",
+            "id": "https://mathiasperez.dev/about-me/",
+            "url": "https://mathiasperez.dev/about-me/",
             "title": "About me ",
             "summary": "Hi guys my name is good Mathias",
             "content_html": "<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>Hi guys my name is good Mathias</p>",
@@ -25,10 +25,10 @@
             "date_modified": "2024-03-12T13:32:20+01:00"
         },
         {
-            "id": "https://theredtoad.github.io/dissonance/",
-            "url": "https://theredtoad.github.io/dissonance/",
+            "id": "https://mathiasperez.dev/dissonance/",
+            "url": "https://mathiasperez.dev/dissonance/",
             "title": "Dissonance",
-            "image": "https://theredtoad.github.io/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif",
+            "image": "https://mathiasperez.dev/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif",
             "author": {
                 "name": "Mathias"
             },
@@ -38,12 +38,12 @@
             "date_modified": "2024-03-04T15:15:06+01:00"
         },
         {
-            "id": "https://theredtoad.github.io/chase-the-wind/",
-            "url": "https://theredtoad.github.io/chase-the-wind/",
+            "id": "https://mathiasperez.dev/chase-the-wind/",
+            "url": "https://mathiasperez.dev/chase-the-wind/",
             "title": "Chase The Wind",
             "summary": "ADADADA",
             "content_html": "<p>ADADADA</p>",
-            "image": "https://theredtoad.github.io/media/posts/2/flyplan.gif",
+            "image": "https://mathiasperez.dev/media/posts/2/flyplan.gif",
             "author": {
                 "name": "Mathias"
             },
@@ -53,12 +53,12 @@
             "date_modified": "2024-03-04T15:08:01+01:00"
         },
         {
-            "id": "https://theredtoad.github.io/pannkakstartan/",
-            "url": "https://theredtoad.github.io/pannkakstartan/",
+            "id": "https://mathiasperez.dev/pannkakstartan/",
+            "url": "https://mathiasperez.dev/pannkakstartan/",
             "title": "PannkaksTårtan",
             "summary": "Contributions: Details: \"Pannkakstårtan,\" a top-down adventure RPG, marked my fourth game project during my time at The Game Assembly. With&hellip;",
-            "content_html": "<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://theredtoad.github.io/media/posts/1/as-2.png\" alt=\"\" width=\"330\" height=\"123\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://theredtoad.github.io/media/posts/1/responsive/as-2-xs.png 384w ,https://theredtoad.github.io/media/posts/1/responsive/as-2-sm.png 600w ,https://theredtoad.github.io/media/posts/1/responsive/as-2-md.png 768w ,https://theredtoad.github.io/media/posts/1/responsive/as-2-lg.png 1200w ,https://theredtoad.github.io/media/posts/1/responsive/as-2-xl.png 1600w\"></figure>\n<p class=\"align-left\"><strong>                     Contributions:</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>Player Controller</li>\n<li>Dialogue System</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p><strong>Details:</strong></p>\n<p>\"Pannkakstårtan,\" a <strong>top-down adventure RPG</strong>, marked my <strong>fourth</strong> <strong>game project</strong> during my time at <strong>The Game Assembly</strong>. With a team of <strong>5 programmers</strong>, <strong>4 artists</strong>, and <strong>2 desig</strong><strong>ners</strong>, we collaborated over the span of <strong>8 weeks</strong>. We used TGE school's own <strong>framework </strong>and <strong>Unity </strong>as our <strong>level editor</strong>.</p>\n<hr>\n<h3><strong>Intro</strong></h3>\n<p> </p>\n<p>As part of my responsibilities, I led the development of the player controller. This included fine-tuning movement and rotation mechanics and setting up a smooth state machine to handle different player actions seamlessly. I also added dynamic animations to make the character's movements feel more natural and responsive. In addition to these main tasks, I pitched in with other features to make sure the gameplay experience was immersive and complete.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
-            "image": "https://theredtoad.github.io/media/posts/1/gifpannkakstorta-2.gif",
+            "content_html": "<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/1/as-2.png\" alt=\"\" width=\"330\" height=\"123\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://mathiasperez.dev/media/posts/1/responsive/as-2-xs.png 384w ,https://mathiasperez.dev/media/posts/1/responsive/as-2-sm.png 600w ,https://mathiasperez.dev/media/posts/1/responsive/as-2-md.png 768w ,https://mathiasperez.dev/media/posts/1/responsive/as-2-lg.png 1200w ,https://mathiasperez.dev/media/posts/1/responsive/as-2-xl.png 1600w\"></figure>\n<p class=\"align-left\"><strong>                     Contributions:</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>Player Controller</li>\n<li>Dialogue System</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p><strong>Details:</strong></p>\n<p>\"Pannkakstårtan,\" a <strong>top-down adventure RPG</strong>, marked my <strong>fourth</strong> <strong>game project</strong> during my time at <strong>The Game Assembly</strong>. With a team of <strong>5 programmers</strong>, <strong>4 artists</strong>, and <strong>2 desig</strong><strong>ners</strong>, we collaborated over the span of <strong>8 weeks</strong>. We used TGE school's own <strong>framework </strong>and <strong>Unity </strong>as our <strong>level editor</strong>.</p>\n<hr>\n<h3><strong>Intro</strong></h3>\n<p> </p>\n<p>As part of my responsibilities, I led the development of the player controller. This included fine-tuning movement and rotation mechanics and setting up a smooth state machine to handle different player actions seamlessly. I also added dynamic animations to make the character's movements feel more natural and responsive. In addition to these main tasks, I pitched in with other features to make sure the gameplay experience was immersive and complete.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif",
             "author": {
                 "name": "Mathias"
             },

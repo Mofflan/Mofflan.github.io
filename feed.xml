@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>MathiasPerez</title>
-    <link href="https://theredtoad.github.io/feed.xml" rel="self" />
-    <link href="https://theredtoad.github.io" />
+    <link href="https://mathiasperez.dev/feed.xml" rel="self" />
+    <link href="https://mathiasperez.dev" />
     <updated>2024-04-05T12:53:04+02:00</updated>
     <author>
         <name>Mathias</name>
     </author>
-    <id>https://theredtoad.github.io</id>
+    <id>https://mathiasperez.dev</id>
 
     <entry>
         <title>About me </title>
         <author>
             <name>Mathias</name>
         </author>
-        <link href="https://theredtoad.github.io/about-me/"/>
-        <id>https://theredtoad.github.io/about-me/</id>
+        <link href="https://mathiasperez.dev/about-me/"/>
+        <id>https://mathiasperez.dev/about-me/</id>
 
         <updated>2024-03-12T13:32:20+01:00</updated>
             <summary>
@@ -38,9 +38,9 @@
         <author>
             <name>Mathias</name>
         </author>
-        <link href="https://theredtoad.github.io/dissonance/"/>
-        <id>https://theredtoad.github.io/dissonance/</id>
-        <media:content url="https://theredtoad.github.io/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif" medium="image" />
+        <link href="https://mathiasperez.dev/dissonance/"/>
+        <id>https://mathiasperez.dev/dissonance/</id>
+        <media:content url="https://mathiasperez.dev/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif" medium="image" />
 
         <updated>2024-03-04T15:15:06+01:00</updated>
             <summary></summary>
@@ -51,20 +51,20 @@
         <author>
             <name>Mathias</name>
         </author>
-        <link href="https://theredtoad.github.io/chase-the-wind/"/>
-        <id>https://theredtoad.github.io/chase-the-wind/</id>
-        <media:content url="https://theredtoad.github.io/media/posts/2/flyplan.gif" medium="image" />
+        <link href="https://mathiasperez.dev/chase-the-wind/"/>
+        <id>https://mathiasperez.dev/chase-the-wind/</id>
+        <media:content url="https://mathiasperez.dev/media/posts/2/flyplan.gif" medium="image" />
 
         <updated>2024-03-04T15:08:01+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://theredtoad.github.io/media/posts/2/flyplan.gif" alt="" />
+                        <img src="https://mathiasperez.dev/media/posts/2/flyplan.gif" alt="" />
                     ADADADA
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://theredtoad.github.io/media/posts/2/flyplan.gif" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mathiasperez.dev/media/posts/2/flyplan.gif" class="type:primaryImage" alt="" /></p>
                 <p>ADADADA</p>
             ]]>
         </content>
@@ -74,21 +74,21 @@
         <author>
             <name>Mathias</name>
         </author>
-        <link href="https://theredtoad.github.io/pannkakstartan/"/>
-        <id>https://theredtoad.github.io/pannkakstartan/</id>
-        <media:content url="https://theredtoad.github.io/media/posts/1/gifpannkakstorta-2.gif" medium="image" />
+        <link href="https://mathiasperez.dev/pannkakstartan/"/>
+        <id>https://mathiasperez.dev/pannkakstartan/</id>
+        <media:content url="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" medium="image" />
 
         <updated>2024-04-05T12:53:04+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://theredtoad.github.io/media/posts/1/gifpannkakstorta-2.gif" alt=" b  " />
+                        <img src="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" alt=" b  " />
                     Contributions: Details: "Pannkakstårtan," a top-down adventure RPG, marked my fourth game project during my time at The Game Assembly. With&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://theredtoad.github.io/media/posts/1/gifpannkakstorta-2.gif" class="type:primaryImage" alt=" b  " /></p>
-                <figure class="post__image post__image--right"><img loading="lazy"  src="https://theredtoad.github.io/media/posts/1/as-2.png" alt="" width="330" height="123" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://theredtoad.github.io/media/posts/1/responsive/as-2-xs.png 384w ,https://theredtoad.github.io/media/posts/1/responsive/as-2-sm.png 600w ,https://theredtoad.github.io/media/posts/1/responsive/as-2-md.png 768w ,https://theredtoad.github.io/media/posts/1/responsive/as-2-lg.png 1200w ,https://theredtoad.github.io/media/posts/1/responsive/as-2-xl.png 1600w"></figure>
+                    <p><img src="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" class="type:primaryImage" alt=" b  " /></p>
+                <figure class="post__image post__image--right"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/1/as-2.png" alt="" width="330" height="123" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mathiasperez.dev/media/posts/1/responsive/as-2-xs.png 384w ,https://mathiasperez.dev/media/posts/1/responsive/as-2-sm.png 600w ,https://mathiasperez.dev/media/posts/1/responsive/as-2-md.png 768w ,https://mathiasperez.dev/media/posts/1/responsive/as-2-lg.png 1200w ,https://mathiasperez.dev/media/posts/1/responsive/as-2-xl.png 1600w"></figure>
 <p class="align-left"><strong>                     Contributions:</strong></p>
 <ul>
 <li style="list-style-type: none;">
