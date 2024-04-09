@@ -3,7 +3,7 @@
     <title>MathiasPerez</title>
     <link href="https://mathiasperez.dev/feed.xml" rel="self" />
     <link href="https://mathiasperez.dev" />
-    <updated>2024-04-09T23:33:42+02:00</updated>
+    <updated>2024-04-09T23:51:48+02:00</updated>
     <author>
         <name>Mathias</name>
     </author>
@@ -42,17 +42,17 @@
         <id>https://mathiasperez.dev/chase-the-wind/</id>
         <media:content url="https://mathiasperez.dev/media/posts/2/flyplan.gif" medium="image" />
 
-        <updated>2024-03-04T15:08:01+01:00</updated>
+        <updated>2024-04-09T23:51:44+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/2/flyplan.gif" alt="" />
-                    ADADADA
+                    hej
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://mathiasperez.dev/media/posts/2/flyplan.gif" class="type:primaryImage" alt="" /></p>
-                <p>ADADADA</p>
+                <p>hej</p>
             ]]>
         </content>
     </entry>
@@ -65,7 +65,7 @@
         <id>https://mathiasperez.dev/pannkakstartan/</id>
         <media:content url="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" medium="image" />
 
-        <updated>2024-04-09T23:33:42+02:00</updated>
+        <updated>2024-04-09T23:51:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" alt=" b  " />

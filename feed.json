@@ -28,8 +28,8 @@
             "id": "https://mathiasperez.dev/chase-the-wind/",
             "url": "https://mathiasperez.dev/chase-the-wind/",
             "title": "Chase The Wind",
-            "summary": "ADADADA",
-            "content_html": "<p>ADADADA</p>",
+            "summary": "hej",
+            "content_html": "<p>hej</p>",
             "image": "https://mathiasperez.dev/media/posts/2/flyplan.gif",
             "author": {
                 "name": "Mathias"
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2024-02-21T10:06:41+01:00",
-            "date_modified": "2024-03-04T15:08:01+01:00"
+            "date_modified": "2024-04-09T23:51:44+02:00"
         },
         {
             "id": "https://mathiasperez.dev/pannkakstartan/",
@@ -52,7 +52,7 @@
             "tags": [
             ],
             "date_published": "2024-02-21T10:04:46+01:00",
-            "date_modified": "2024-04-09T23:33:42+02:00"
+            "date_modified": "2024-04-09T23:51:48+02:00"
         }
     ]
 }
