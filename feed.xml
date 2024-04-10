@@ -3,12 +3,82 @@
     <title>MathiasPerez</title>
     <link href="https://mathiasperez.dev/feed.xml" rel="self" />
     <link href="https://mathiasperez.dev" />
-    <updated>2024-04-09T23:51:48+02:00</updated>
+    <updated>2024-04-10T10:32:00+02:00</updated>
     <author>
         <name>Mathias</name>
     </author>
     <id>https://mathiasperez.dev</id>
 
+    <entry>
+        <title>B-Day 1947 | Tools in Unity</title>
+        <author>
+            <name>Mathias</name>
+        </author>
+        <link href="https://mathiasperez.dev/bday/"/>
+        <id>https://mathiasperez.dev/bday/</id>
+        <media:content url="https://mathiasperez.dev/media/posts/9/MoveFolder-2.gif" medium="image" />
+
+        <updated>2024-04-10T10:32:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mathiasperez.dev/media/posts/9/MoveFolder-2.gif" alt="" />
+                    Details Genre: Point &amp; Click Puzzle Timeframe: 4 weeks (20h/week) Team: 6 Programmers, 5 Graphivs &amp; 3 level designers Engine:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mathiasperez.dev/media/posts/9/MoveFolder-2.gif" class="type:primaryImage" alt="" /></p>
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1hr3gv4iv5p">Details</a>
+<ul>
+<li><a href="#mcetoc_1hr3gvggu5r">Contributions</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1hr3h6roj61">Intro</a></li>
+<li><a href="#mcetoc_1hr3h62j35u">Showcasing Tools</a></li>
+</ul>
+</div>
+<h4 id="mcetoc_1hr3gv4iv5p"><strong>Details</strong></h4>
+<ul>
+<li><strong>Genre:</strong> Point &amp; Click Puzzle</li>
+<li><strong>Timeframe:</strong> 4 weeks (20h/week)</li>
+<li><strong>Team:</strong> 6 Programmers, 5 Graphivs &amp; 3 level designers</li>
+<li><strong>Engine:</strong> "Friendship Engine" <strong>Custom Engine</strong> built with <strong>DirectX 11 </strong></li>
+</ul>
+<h5 id="mcetoc_1hr3gvggu5r"><strong>Contributions</strong></h5>
+<ul>
+<li>Tools in unity</li>
+<li>Player/Camera movement</li>
+</ul>
+<p> </p>
+<h4 id="mcetoc_1hr3h6roj61">Intro</h4>
+<p>In this project I worked on the Player movement (its just a camera that moves and rotate). Additionally, I developed various tools within Unity to streamline the workflow for other team members, making it easier for them to contribute effectively to the project.</p>
+<p> </p>
+<h4 id="mcetoc_1hr3h62j35u">Showcasing Tools</h4>
+<p> </p>
+<p>This tool simplifies the game startup process by initiating gameplay with the click of a button. It offers the flexibility to select between debug, release, or retail modes, automatically building the project before launching the executable file.</p>
+<figure class="post__image"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/9/startup.png" alt="" width="760" height="178" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mathiasperez.dev/media/posts/9/responsive/startup-xs.png 384w ,https://mathiasperez.dev/media/posts/9/responsive/startup-sm.png 600w ,https://mathiasperez.dev/media/posts/9/responsive/startup-md.png 768w ,https://mathiasperez.dev/media/posts/9/responsive/startup-lg.png 1200w ,https://mathiasperez.dev/media/posts/9/responsive/startup-xl.png 1600w"></figure>
+<p> </p>
+<p><strong>Moving gameobjects to a "folder"</strong></p>
+<figure class="post__image"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/9/MoveFolder-2-2.gif" alt="" width="600" height="436"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Spite: The Mask of Brigitte | WIP</title>
+        <author>
+            <name>Mathias</name>
+        </author>
+        <link href="https://mathiasperez.dev/spite-masked-of-something/"/>
+        <id>https://mathiasperez.dev/spite-masked-of-something/</id>
+
+        <updated>2024-04-10T09:21:01+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>About me </title>
         <author>
@@ -57,7 +127,7 @@
         </content>
     </entry>
     <entry>
-        <title>Jakten På Pannkakstårta | PlayerController | Dialouge System</title>
+        <title>Jakten På Pannkakstårta | PlayerController and Dialouge System</title>
         <author>
             <name>Mathias</name>
         </author>
@@ -65,7 +135,7 @@
         <id>https://mathiasperez.dev/pannkakstartan/</id>
         <media:content url="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" medium="image" />
 
-        <updated>2024-04-09T23:51:48+02:00</updated>
+        <updated>2024-04-10T09:56:35+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" alt=" b  " />
