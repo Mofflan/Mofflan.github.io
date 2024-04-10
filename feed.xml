@@ -3,12 +3,51 @@
     <title>MathiasPerez</title>
     <link href="https://mathiasperez.dev/feed.xml" rel="self" />
     <link href="https://mathiasperez.dev" />
-    <updated>2024-04-10T10:32:00+02:00</updated>
+    <updated>2024-04-10T13:05:40+02:00</updated>
     <author>
         <name>Mathias</name>
     </author>
     <id>https://mathiasperez.dev</id>
 
+    <entry>
+        <title>OnTheGoose | W.I.P</title>
+        <author>
+            <name>Mathias</name>
+        </author>
+        <link href="https://mathiasperez.dev/onthegoose/"/>
+        <id>https://mathiasperez.dev/onthegoose/</id>
+
+        <updated>2024-04-10T13:05:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Details Genre: First person Platformer/Parkour Timeframe: 15 weeks (20h/week) Team: 6 Programmers, 5 Graphics &amp; 3 Level designers Engine: "Friendship&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose.png" alt="" width="1211" height="596" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-xs.png 384w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-sm.png 600w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-md.png 768w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-lg.png 1200w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-xl.png 1600w"></figure>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1hr3qdi1edv">Details</a></li>
+</ul>
+</div>
+<h4 id="mcetoc_1hr3qdi1edv"><strong>Details</strong></h4>
+<ul>
+<li><strong>Genre:</strong> First person Platformer/Parkour</li>
+<li><strong>Timeframe:</strong> 15 weeks (20h/week)</li>
+<li><strong>Team:</strong> 6 Programmers, 5 Graphics &amp; 3 Level designers</li>
+<li><strong>Engine:</strong> "Friendship Engine" 2.0 (custom Engine built with DirectX 11 and uses ESC)</li>
+</ul>
+<p> </p>
+<h5>Contributions</h5>
+<ul>
+<li>Camera System</li>
+<li>Enemy System</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>B-Day 1947 | Tools in Unity</title>
         <author>
@@ -18,17 +57,20 @@
         <id>https://mathiasperez.dev/bday/</id>
         <media:content url="https://mathiasperez.dev/media/posts/9/MoveFolder-2.gif" medium="image" />
 
-        <updated>2024-04-10T10:32:00+02:00</updated>
+        <updated>2024-04-10T13:05:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/9/MoveFolder-2.gif" alt="" />
-                    Details Genre: Point &amp; Click Puzzle Timeframe: 4 weeks (20h/week) Team: 6 Programmers, 5 Graphivs &amp; 3 level designers Engine:&hellip;
+                    Watch Trailer In this project I worked on the Player movement (its just a camera that moves and rotate). Additionally,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://mathiasperez.dev/media/posts/9/MoveFolder-2.gif" class="type:primaryImage" alt="" /></p>
-                <div class="post__toc">
+                <p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/9/bday-logo.png" alt="" width="512" height="288" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mathiasperez.dev/media/posts/9/responsive/bday-logo-xs.png 384w ,https://mathiasperez.dev/media/posts/9/responsive/bday-logo-sm.png 600w ,https://mathiasperez.dev/media/posts/9/responsive/bday-logo-md.png 768w ,https://mathiasperez.dev/media/posts/9/responsive/bday-logo-lg.png 1200w ,https://mathiasperez.dev/media/posts/9/responsive/bday-logo-xl.png 1600w"></figure>
+<p class="align-right"><a href="https://www.youtube.com/watch?v=mi7AsAxNiDo" target="_blank" rel="noopener noreferrer">Watch Trailer</a></p>
+<div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
 <li><a href="#mcetoc_1hr3gv4iv5p">Details</a>
@@ -68,16 +110,69 @@
         </content>
     </entry>
     <entry>
-        <title>Spite: The Mask of Brigitte | WIP</title>
+        <title>Spite: The Mask of Brigitte | PlayerSystem &amp; BossSystem</title>
         <author>
             <name>Mathias</name>
         </author>
         <link href="https://mathiasperez.dev/spite-masked-of-something/"/>
         <id>https://mathiasperez.dev/spite-masked-of-something/</id>
+        <media:content url="https://mathiasperez.dev/media/posts/8/P6Show.gif" medium="image" />
 
-        <updated>2024-04-10T09:21:01+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2024-04-10T12:07:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mathiasperez.dev/media/posts/8/P6Show.gif" alt="" />
+                    Watch Trailer Coming soon In this project, we made a significant change by shifting from our usual component-based system to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mathiasperez.dev/media/posts/8/P6Show.gif" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/8/s_gameLogo-2.png" alt="" width="506" height="506" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mathiasperez.dev/media/posts/8/responsive/s_gameLogo-2-xs.png 384w ,https://mathiasperez.dev/media/posts/8/responsive/s_gameLogo-2-sm.png 600w ,https://mathiasperez.dev/media/posts/8/responsive/s_gameLogo-2-md.png 768w ,https://mathiasperez.dev/media/posts/8/responsive/s_gameLogo-2-lg.png 1200w ,https://mathiasperez.dev/media/posts/8/responsive/s_gameLogo-2-xl.png 1600w"></figure>
+<p class="align-right">Watch Trailer Coming soon</p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1hr3kkp7363">Details</a>
+<ul>
+<li><a href="#mcetoc_1hr3lqar472">Contributions</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1hr3kochp69">Intro</a></li>
+<li><a href="#mcetoc_1hr3n4m0177">PlayerSystem</a></li>
+</ul>
+</div>
+<h4 id="mcetoc_1hr3kkp7363">Details</h4>
+<ul>
+<li><strong>Genre:</strong> Top down Hack &amp; Slash</li>
+<li><strong>Timeframe:</strong> 9 weeks (20h/week)</li>
+<li><strong>Team:</strong> 6 Programmers, 5 Graphics &amp; 3 Level designers</li>
+<li><strong>Engine:</strong> "Friendship Engine" New version that uses ECS</li>
+</ul>
+<h5 id="mcetoc_1hr3lqar472"><strong>Contributions</strong></h5>
+<ul>
+<li><strong>PlayerSystem</strong>
+<ul>
+<li>Movement/Navmesh</li>
+<li>Debugging</li>
+<li>States</li>
+<li>Combat</li>
+</ul>
+</li>
+<li><strong>BossSystem</strong></li>
+</ul>
+<p> </p>
+<h4 id="mcetoc_1hr3kochp69">Intro</h4>
+<p>In this project, we made a significant change by shifting from our usual component-based system to the <strong>Entity Component System</strong> (<strong>ECS</strong>) model. It was our first time working with <strong>ECS</strong>, which brought about a learning curve and <strong>exciting </strong>opportunities for innovation. I primarily focused on developing essential gameplay systems like the <strong>PlayerSystem </strong>and <strong>BossSystem</strong>. This shift allowed us to rethink how we approached game development, offering new ways to improve performance and scalability.</p>
+<p> </p>
+<h4 id="mcetoc_1hr3n4m0177">PlayerSystem</h4>
+<p>In the PlayerSystem, we devised a mechanism to control player movement using raycasting. When the player clicks, a <strong>ray </strong>is cast from the mouse position to check if it intersects with the navigable areas represented by the <strong>navmesh</strong>. Leveraging <strong>Unity </strong>as our level editor, we export the <strong>navmesh </strong>data and import it into our project to facilitate player navigation. Transitioning to <strong>ECS </strong>required a fundamental shift in our approach, prompting us to reconsider how players interact with the environment.</p>
+<p>Within the PlayerSystem, the raycasting information is relayed to the <strong>NavmeshAgentComponent</strong>, a crucial component of the <strong>player entity</strong>. Subsequently, in our <strong>NavmeshSystem</strong>, this data is utilized to update the positions of all agents, including both <strong>player </strong>and <strong>enemies</strong>, ensuring <strong>seamless </strong>movement within the navigable areas defined by the navmesh. </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>About me </title>
@@ -104,6 +199,72 @@
         </content>
     </entry>
     <entry>
+        <title>Dissonance | BossAbilities &amp; FMOD </title>
+        <author>
+            <name>Mathias</name>
+        </author>
+        <link href="https://mathiasperez.dev/dissonance/"/>
+        <id>https://mathiasperez.dev/dissonance/</id>
+        <media:content url="https://mathiasperez.dev/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif" medium="image" />
+
+        <updated>2024-04-10T12:48:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mathiasperez.dev/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif" alt="" />
+                    [WIP ADD IMAGE OF BOSS ABILITIES]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mathiasperez.dev/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1hr3pj676d6">Details</a>
+<ul>
+<li><a href="#mcetoc_1hr3pj676d7">Contributions</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1hr3pj676d8">Intro</a></li>
+</ul>
+</div>
+<h4 id="mcetoc_1hr3pj676d6">Details</h4>
+<ul>
+<li><strong>Genre:</strong> 2.5D Platformer</li>
+<li><strong>Timeframe:</strong> 12 weeks (20h/week)</li>
+<li><strong>Team:</strong> 4 Programmers, 4 Graphics &amp; 2 Level designers</li>
+<li><strong>Engine: </strong>TGE schools own framework and unity as level editor</li>
+</ul>
+<h5 id="mcetoc_1hr3pj676d7">Contributions</h5>
+<ul>
+<li>BossAbilities
+<ul>
+<li>WaveAbility</li>
+<li>LaserAbility</li>
+</ul>
+</li>
+<li>Implement FMOD 
+<ul>
+<li>Added SFX</li>
+<li>Added Music</li>
+<li>Added Sound</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<p>[WIP ADD IMAGE OF BOSS ABILITIES]</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Chase The Wind</title>
         <author>
             <name>Mathias</name>
@@ -112,22 +273,30 @@
         <id>https://mathiasperez.dev/chase-the-wind/</id>
         <media:content url="https://mathiasperez.dev/media/posts/2/flyplan.gif" medium="image" />
 
-        <updated>2024-04-09T23:51:44+02:00</updated>
+        <updated>2024-04-10T12:18:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/2/flyplan.gif" alt="" />
-                    hej
+                    Details Genre: Endless Runner Timeframe: 6 weeks (20h/week) Team: 5 Programmers, 5 Graphics &amp; 3 Level designers Engine: Unity About&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://mathiasperez.dev/media/posts/2/flyplan.gif" class="type:primaryImage" alt="" /></p>
-                <p>hej</p>
+                <h4>Details</h4>
+<ul>
+<li><strong>Genre:</strong> Endless Runner</li>
+<li><strong>Timeframe:</strong> 6 weeks (20h/week)</li>
+<li><strong>Team:</strong> 5 Programmers, 5 Graphics &amp; 3 Level designers</li>
+<li><strong>Engine:</strong> Unity</li>
+</ul>
+<h4><strong>About the project</strong></h4>
+<p>In our first GameProject at The Game Assembly, I worked on some simple but effective tasks. For example, I created a dynamic material that changed colors like an LED sign shop, adding visual interest. I also implemented a checkpoint system and added animations to improve the game.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Jakten På Pannkakstårta | PlayerController and Dialouge System</title>
+        <title>Jakten På Pannkakstårta | PlayerController &amp; Dialouge System</title>
         <author>
             <name>Mathias</name>
         </author>
@@ -135,7 +304,7 @@
         <id>https://mathiasperez.dev/pannkakstartan/</id>
         <media:content url="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" medium="image" />
 
-        <updated>2024-04-10T09:56:35+02:00</updated>
+        <updated>2024-04-10T13:05:40+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif" alt=" b  " />

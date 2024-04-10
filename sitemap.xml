@@ -10,9 +10,13 @@
 </url>
 <url>
 <loc>https://mathiasperez.dev/bday/</loc>
-<lastmod>2024-04-10T10:32:00+02:00</lastmod>
+<lastmod>2024-04-10T13:05:37+02:00</lastmod>
 <image:image>
 <image:loc>https://mathiasperez.dev/media/posts/9/MoveFolder-2.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mathiasperez.dev/media/posts/9/bday-logo.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -26,7 +30,7 @@
 </url>
 <url>
 <loc>https://mathiasperez.dev/chase-the-wind/</loc>
-<lastmod>2024-04-09T23:51:44+02:00</lastmod>
+<lastmod>2024-04-10T12:18:31+02:00</lastmod>
 <image:image>
 <image:loc>https://mathiasperez.dev/media/posts/2/flyplan.gif</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -34,7 +38,7 @@
 </url>
 <url>
 <loc>https://mathiasperez.dev/dissonance/</loc>
-<lastmod>2024-04-09T17:31:32+02:00</lastmod>
+<lastmod>2024-04-10T12:48:08+02:00</lastmod>
 <image:image>
 <image:loc>https://mathiasperez.dev/media/posts/3/chrome_pScPlkxSc2-ezgif.com-optimize.gif</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -46,11 +50,15 @@
 </url>
 <url>
 <loc>https://mathiasperez.dev/onthegoose/</loc>
-<lastmod>2024-04-09T21:49:31+02:00</lastmod>
+<lastmod>2024-04-10T13:05:03+02:00</lastmod>
+<image:image>
+<image:loc>https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://mathiasperez.dev/pannkakstartan/</loc>
-<lastmod>2024-04-10T09:56:35+02:00</lastmod>
+<lastmod>2024-04-10T13:05:40+02:00</lastmod>
 <image:image>
 <image:loc>https://mathiasperez.dev/media/posts/1/gifpannkakstorta-2.gif</image:loc>
 <image:title><![CDATA[ b  ]]></image:title>
@@ -86,6 +94,14 @@
 </url>
 <url>
 <loc>https://mathiasperez.dev/spite-masked-of-something/</loc>
-<lastmod>2024-04-10T09:21:01+02:00</lastmod>
+<lastmod>2024-04-10T12:07:29+02:00</lastmod>
+<image:image>
+<image:loc>https://mathiasperez.dev/media/posts/8/P6Show.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mathiasperez.dev/media/posts/8/s_gameLogo-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>
