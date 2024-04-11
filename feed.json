@@ -5,7 +5,7 @@
     "home_page_url": "https://mathiasperez.dev",
     "feed_url": "https://mathiasperez.dev/feed.json",
     "user_comment": "",
-    "icon": "https://mathiasperez.dev/media/website/Illustration2.png",
+    "icon": "https://mathiasperez.dev/media/website/newSkipperLogo-removebg-preview.png",
     "author": {
         "name": "Mathias"
     },
@@ -13,16 +13,17 @@
         {
             "id": "https://mathiasperez.dev/onthegoose/",
             "url": "https://mathiasperez.dev/onthegoose/",
-            "title": "OnTheGoose | W.I.P",
+            "title": "OnTheGoose | CameraSystem &amp; EnemySystem",
             "summary": "Details Genre: First person Platformer/Parkour Timeframe: 15 weeks (20h/week) Team: 6 Programmers, 5 Graphics &amp; 3 Level designers Engine: \"Friendship&hellip;",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose.png\" alt=\"\" width=\"1211\" height=\"596\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-xs.png 384w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-sm.png 600w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-md.png 768w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-lg.png 1200w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-xl.png 1600w\"></figure>\n<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1hr3qdi1edv\">Details</a></li>\n</ul>\n</div>\n<h4 id=\"mcetoc_1hr3qdi1edv\"><strong>Details</strong></h4>\n<ul>\n<li><strong>Genre:</strong> First person Platformer/Parkour</li>\n<li><strong>Timeframe:</strong> 15 weeks (20h/week)</li>\n<li><strong>Team:</strong> 6 Programmers, 5 Graphics &amp; 3 Level designers</li>\n<li><strong>Engine:</strong> \"Friendship Engine\" 2.0 (custom Engine built with DirectX 11 and uses ESC)</li>\n</ul>\n<p> </p>\n<h5>Contributions</h5>\n<ul>\n<li>Camera System</li>\n<li>Enemy System</li>\n</ul>",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose.png\" alt=\"\" width=\"1211\" height=\"596\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-xs.png 384w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-sm.png 600w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-md.png 768w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-lg.png 1200w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-xl.png 1600w\"></figure>\n<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1hr3qdi1edv\">Details</a>\n<ul>\n<li><a href=\"#mcetoc_1hr682j162\">Contributions</a></li>\n</ul>\n</li>\n<li><a href=\"#mcetoc_1hr68bojf9\">Intro</a></li>\n<li><a href=\"#mcetoc_1hr69m4egb\">Enemy</a></li>\n<li><a href=\"#mcetoc_1hr6b3aeud\">CameraSystem</a>\n<ul>\n<li><a href=\"#mcetoc_1hr6dpepto\">Lean Camera</a></li>\n<li><a href=\"#mcetoc_1hr6das9lk\">Wallrun camera</a></li>\n<li><a href=\"#mcetoc_1hr6das9ll\">Headbob standing still</a></li>\n<li><a href=\"#mcetoc_1hr6das9lm\">Headbob running</a></li>\n</ul>\n</li>\n</ul>\n</div>\n<h4 id=\"mcetoc_1hr3qdi1edv\"><strong>Details</strong></h4>\n<ul>\n<li><strong>Genre:</strong> First person Platformer/Parkour</li>\n<li><strong>Timeframe:</strong> 15 weeks (20h/week)</li>\n<li><strong>Team:</strong> 6 Programmers, 5 Graphics &amp; 3 Level designers</li>\n<li><strong>Engine:</strong> \"Friendship Engine\" 2.0 (custom Engine built with DirectX 11 and uses ESC)</li>\n</ul>\n<p> </p>\n<h5 id=\"mcetoc_1hr682j162\">Contributions</h5>\n<ul>\n<li>Camera System\n<ul>\n<li>SmoothCamera</li>\n</ul>\n</li>\n<li>Enemy System\n<ul>\n<li>ProjectilePool</li>\n<li>PhysX</li>\n</ul>\n</li>\n</ul>\n<h4 id=\"mcetoc_1hr68bojf9\">Intro</h4>\n<p>For this project, I focused on developing the enemy and camera systems. The enemy, designed as a static turret, utilizes raycasting to detect and target the player. Meanwhile, the camera system enhances the gameplay experience with features including a wall-run camera, headbob, and a dynamic leaning mechanism.</p>\n<p> </p>\n<h4 id=\"mcetoc_1hr69m4egb\">Enemy</h4>\n<p>in this project, the enemies are turrets that fire arrows designed to function as hitscan projectiles. To achieve this, we implemented an invisible orb that relentlessly pursues the player. When the orb catches up to the player, damage is inflicted, and the orb resets to its original position in the list/path. The system effectively acts as a timer that penalizes lack of movement, as the orb's speed and distance from the player are dynamically adjusted based on the player's velocity.</p>\n<p>In this design, the accuracy of enemy aim is inversely related to player speed: as the player's speed increases, the enemy's aiming accuracy decreases.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/11/Aim.gif\" alt=\"\" width=\"600\" height=\"338\"></figure>\n<p> </p>\n<h4 id=\"mcetoc_1hr6b3aeud\">CameraSystem</h4>\n<p>he CameraSystem is structured around a central function that manages various \"camera states.\" Depending on the player's actions, such as wall running, the function seamlessly transitions the camera settings by interpolating to the appropriate wallrun camera data.</p>\n<h5 id=\"mcetoc_1hr6dpepto\">Lean Camera</h5>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/11/leancamera-ezgif.com-cut.gif\" alt=\"\" width=\"600\" height=\"338\"></figure>\n<h5 id=\"mcetoc_1hr6das9lk\">Wallrun camera</h5>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/11/WAllrun.gif\" alt=\"\" width=\"600\" height=\"338\"></figure>\n<h5 id=\"mcetoc_1hr6das9ll\">Headbob standing still</h5>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/11/Headbob-ezgif.com-optimize.gif\" alt=\"\" width=\"600\" height=\"338\"></figure>\n<p> </p>\n<h5 id=\"mcetoc_1hr6das9lm\">Headbob running</h5>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/11/Headbobrun-ezgif.com-optimize.gif\" alt=\"\" width=\"600\" height=\"338\"></figure>",
+            "image": "https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose-2.png",
             "author": {
                 "name": "Mathias"
             },
             "tags": [
             ],
             "date_published": "2024-04-09T17:30:09+02:00",
-            "date_modified": "2024-04-10T13:05:03+02:00"
+            "date_modified": "2024-04-11T13:14:40+02:00"
         },
         {
             "id": "https://mathiasperez.dev/bday/",
@@ -37,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2024-04-09T17:27:37+02:00",
-            "date_modified": "2024-04-10T13:05:37+02:00"
+            "date_modified": "2024-04-11T13:14:32+02:00"
         },
         {
             "id": "https://mathiasperez.dev/spite-masked-of-something/",
@@ -52,21 +53,21 @@
             "tags": [
             ],
             "date_published": "2024-04-09T17:27:31+02:00",
-            "date_modified": "2024-04-10T12:07:29+02:00"
+            "date_modified": "2024-04-11T13:14:28+02:00"
         },
         {
             "id": "https://mathiasperez.dev/about-me/",
             "url": "https://mathiasperez.dev/about-me/",
             "title": "About me ",
-            "summary": "Hi guys my name is good Mathias",
-            "content_html": "<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>Hi guys my name is good Mathias</p>",
+            "summary": "Mobile: +46 735100912 OBS Please message me first Mail: Mathias.PerezBustos@hotmail.com Linked: Click Here CV: Open CV here! Hello! My name is&hellip;",
+            "content_html": "<p> </p>\n<p> </p>\n<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://mathiasperez.dev/media/posts/7/sp22-mathias-perez-bustos-300x375.png\" alt=\"\" width=\"185\" height=\"231\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://mathiasperez.dev/media/posts/7/responsive/sp22-mathias-perez-bustos-300x375-xs.png 384w ,https://mathiasperez.dev/media/posts/7/responsive/sp22-mathias-perez-bustos-300x375-sm.png 600w ,https://mathiasperez.dev/media/posts/7/responsive/sp22-mathias-perez-bustos-300x375-md.png 768w ,https://mathiasperez.dev/media/posts/7/responsive/sp22-mathias-perez-bustos-300x375-lg.png 1200w ,https://mathiasperez.dev/media/posts/7/responsive/sp22-mathias-perez-bustos-300x375-xl.png 1600w\"></figure>\n<h4 class=\"align-center\"><strong>Contact:</strong></h4>\n<p class=\"align-center\"><strong>Mobile:</strong> +46 735100912 <strong>OBS Please message me first<br>Mail: <a href=\"mailto:Mathias.PerezBustos@hotmail.com\"><span style=\"font-weight: 400;\">Mathias.PerezBustos@hotmail.com</span></a><br>Linked: <a href=\"https://www.linkedin.com/in/mathias-perez-bustos/\" target=\"_blank\" rel=\"noopener noreferrer\">Click Here</a><br>CV: </strong><a href=\"https://mathiasperez.dev/CV.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Open CV here!</a><strong><br></strong></p>\n<p> </p>\n<p> </p>\n<p>Hello! My name is Mathias Perez Bustos, and I'm a passionate programmer who loves creating games with a team of friends. While I primarily focus on front-end development, I occasionally dabble in back-end tasks as well. One of my favorite projects was \"Jakten på Pannkakstårta,\" where I had the opportunity to work on the dialogue system and romance aspects of the game.</p>\n<p>My love for gaming started at a very young age. One of my earliest memories is playing a Spider-Man game while wearing gloves that resembled the superhero's iconic suit. Since then, gaming has been big part of my life. During my free time, you'll often find me browsing on my computer or engaging in gaming nights with friends, which have become a cherished evening ritual.</p>\n<p>Recently, I've also discovered a new passion: playing Magic: The Gathering with my friends. I have been borrowing my friends dinosaour deck.</p>\n<p>As a programmer, I'm constantly seeking opportunities to learn and grow. I thrive in collaborative environments where I can contribute my skills and ideas to create immersive and engaging gaming experiences. If you're looking for a dedicated and enthusiastic team member who is committed to bringing virtual worlds to life, I'd love to connect with you!</p>\n<p> </p>",
             "author": {
                 "name": "Mathias"
             },
             "tags": [
             ],
             "date_published": "2024-03-12T13:23:57+01:00",
-            "date_modified": "2024-03-12T13:32:20+01:00"
+            "date_modified": "2024-04-11T14:25:46+02:00"
         },
         {
             "id": "https://mathiasperez.dev/dissonance/",
@@ -81,7 +82,7 @@
             "tags": [
             ],
             "date_published": "2024-03-04T09:19:15+01:00",
-            "date_modified": "2024-04-10T12:48:08+02:00"
+            "date_modified": "2024-04-11T13:14:20+02:00"
         },
         {
             "id": "https://mathiasperez.dev/chase-the-wind/",
@@ -96,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2024-02-21T10:06:41+01:00",
-            "date_modified": "2024-04-10T12:18:31+02:00"
+            "date_modified": "2024-04-11T13:14:14+02:00"
         },
         {
             "id": "https://mathiasperez.dev/pannkakstartan/",
@@ -111,7 +112,7 @@
             "tags": [
             ],
             "date_published": "2024-02-21T10:04:46+01:00",
-            "date_modified": "2024-04-10T13:05:40+02:00"
+            "date_modified": "2024-04-11T13:14:37+02:00"
         }
     ]
 }
