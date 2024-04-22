@@ -3,7 +3,7 @@
     <title>MathiasPerez</title>
     <link href="https://mathiasperez.dev/feed.xml" rel="self" />
     <link href="https://mathiasperez.dev" />
-    <updated>2024-04-22T16:42:43+02:00</updated>
+    <updated>2024-04-22T16:58:33+02:00</updated>
     <author>
         <name>Mathias</name>
     </author>
@@ -16,18 +16,18 @@
         </author>
         <link href="https://mathiasperez.dev/onthegoose/"/>
         <id>https://mathiasperez.dev/onthegoose/</id>
-        <media:content url="https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose-2.png" medium="image" />
+        <media:content url="https://mathiasperez.dev/media/posts/11/thumbnail.gif" medium="image" />
 
         <updated>2024-04-09T17:30:09+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose-2.png" alt="" />
+                        <img src="https://mathiasperez.dev/media/posts/11/thumbnail.gif" alt="" />
                     Details Genre: First person Platformer/Parkour Timeframe: 15 weeks (20h/week) Team: 6 Programmers, 5 Graphics &amp; 3 Level designers Engine: "Friendship&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mathiasperez.dev/media/posts/11/thumbnail.gif" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/11/OnTheGoosePortfolioNoGoose.png" alt="" width="1211" height="596" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-xs.png 384w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-sm.png 600w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-md.png 768w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-lg.png 1200w ,https://mathiasperez.dev/media/posts/11/responsive/OnTheGoosePortfolioNoGoose-xl.png 1600w"></figure>
 <div class="post__toc">
 <h3>Table of Contents</h3>
