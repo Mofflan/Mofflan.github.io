@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://mathiasperez.dev/pvj-or-customization-or-settlement/",
+            "url": "https://mathiasperez.dev/pvj-or-customization-or-settlement/",
+            "title": "PVJ | Team Lead | Customization | Settlement | Library ",
+            "image": "https://mathiasperez.dev/media/posts/13/istockphoto-1417048081-612x612-removebg-preview.png",
+            "author": {
+                "name": "Mathias"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-28T16:05:01+02:00",
+            "date_modified": "2025-04-28T16:08:06+02:00"
+        },
+        {
             "id": "https://mathiasperez.dev/bergtagen-or-procedual-animation/",
             "url": "https://mathiasperez.dev/bergtagen-or-procedual-animation/",
             "title": "Bergtagen [Unreal Engine 5] Procedural Animation / Animation",
