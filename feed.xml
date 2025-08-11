@@ -3,7 +3,7 @@
     <title>MathiasPerez</title>
     <link href="https://mathiasperez.dev/feed.xml" rel="self" />
     <link href="https://mathiasperez.dev" />
-    <updated>2025-08-11T14:18:29+02:00</updated>
+    <updated>2025-08-11T14:34:21+02:00</updated>
     <author>
         <name>Mathias</name>
     </author>
@@ -234,8 +234,9 @@
         <link href="https://mathiasperez.dev/fabrik-procedual-animation/"/>
         <id>https://mathiasperez.dev/fabrik-procedual-animation/</id>
         <media:content url="https://mathiasperez.dev/media/posts/10/leg.gif" medium="image" />
+            <category term="Canceled"/>
 
-        <updated>2025-03-24T17:04:17+01:00</updated>
+        <updated>2025-08-11T14:34:21+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mathiasperez.dev/media/posts/10/leg.gif" alt="" />
