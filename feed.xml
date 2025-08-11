@@ -3,24 +3,55 @@
     <title>MathiasPerez</title>
     <link href="https://mathiasperez.dev/feed.xml" rel="self" />
     <link href="https://mathiasperez.dev" />
-    <updated>2025-04-28T16:08:06+02:00</updated>
+    <updated>2025-08-11T14:18:29+02:00</updated>
     <author>
         <name>Mathias</name>
     </author>
     <id>https://mathiasperez.dev</id>
 
     <entry>
-        <title>PVJ | Team Lead | Customization | Settlement | Library </title>
+        <title>PVJ |Internship| Team Lead | Customization System | SaveSystem | Hub &amp; Other Stuff</title>
         <author>
             <name>Mathias</name>
         </author>
         <link href="https://mathiasperez.dev/pvj-or-customization-or-settlement/"/>
         <id>https://mathiasperez.dev/pvj-or-customization-or-settlement/</id>
-        <media:content url="https://mathiasperez.dev/media/posts/13/istockphoto-1417048081-612x612-removebg-preview.png" medium="image" />
+        <media:content url="https://mathiasperez.dev/media/posts/13/Animation.gif" medium="image" />
 
-        <updated>2025-04-28T16:08:06+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2025-08-11T14:18:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mathiasperez.dev/media/posts/13/Animation.gif" alt="" />
+                    Internship at ION Game Design I completed an 8-month internship at ION Game Design, where I was promoted to Team&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://mathiasperez.dev/media/posts/13/Animation.gif" class="type:primaryImage" alt="" /></p>
+                <p data-start="108" data-end="351"><strong data-start="108" data-end="141">Internship at ION Game Design</strong><br data-start="141" data-end="144">I completed an 8-month internship at ION Game Design, where I was promoted to <strong data-start="222" data-end="235">Team Lead</strong>, managing a cross-disciplinary team of ~10 members, including programmers, 2D/3D artists, and a technical artist.</p>
+<p data-start="353" data-end="436">During my time there, I worked on many different features and systems, including:</p>
+<ul data-start="437" data-end="676">
+<li data-start="437" data-end="484">
+<p data-start="439" data-end="484"><strong data-start="439" data-end="464">Customization systems</strong> for player assets</p>
+</li>
+<li data-start="485" data-end="529">
+<p data-start="487" data-end="529"><strong data-start="487" data-end="502">Save system</strong> to persist game progress</p>
+</li>
+<li data-start="530" data-end="590">
+<p data-start="532" data-end="590"><strong data-start="532" data-end="543">Tooling</strong> for quick and efficient access to JSON files</p>
+</li>
+<li data-start="591" data-end="626">
+<p data-start="593" data-end="626"><strong data-start="593" data-end="615">Unlockable content</strong> features</p>
+</li>
+<li data-start="627" data-end="676">
+<p data-start="629" data-end="676"><strong data-start="629" data-end="643">Mini-games</strong> and various gameplay mechanics</p>
+</li>
+</ul>
+<p data-start="678" data-end="883">These are just a few examples—throughout the internship, I contributed to many other areas of development as well.<br data-start="792" data-end="795">Below are some example GIFs of my work—more details can be shared during an interview.</p>
+<figure class="post__image"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/13/Animation-3.gif" alt="" width="1051" height="513"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://mathiasperez.dev/media/posts/13/Animation3-3.gif" alt="" width="1166" height="513"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Bergtagen [Unreal Engine 5] Procedural Animation / Animation</title>
@@ -398,7 +429,7 @@
         <link href="https://mathiasperez.dev/about-me/"/>
         <id>https://mathiasperez.dev/about-me/</id>
 
-        <updated>2025-04-04T13:12:59+02:00</updated>
+        <updated>2025-08-10T15:40:05+02:00</updated>
             <summary>
                 <![CDATA[
                     Mathias.PerezBustos@hotmail.com Hello! My name is Mathias Perez Bustos, and I'm a passionate programmer who loves creating games with a team&hellip;
@@ -417,9 +448,6 @@
 <p>My love for gaming started at a very young age. One of my earliest memories is playing a Spider-Man game while wearing gloves that resembled the superhero's iconic suit. Since then, gaming has been big part of my life. During my free time, you'll often find me browsing on my computer or engaging in gaming nights with friends, which have become a cherished evening ritual.</p>
 <p>Recently, I've also discovered a new passion: playing Magic: The Gathering with my friends. I have been borrowing my friends dinosaour deck.</p>
 <p>As a programmer, I'm constantly seeking opportunities to learn and grow. I thrive in collaborative environments where I can contribute my skills and ideas to create immersive and engaging gaming experiences. If you're looking for a dedicated and enthusiastic team member who is committed to bringing virtual worlds to life, I'd love to connect with you!</p>
-<p> </p>
-<p class="sqsrte-small preFade fadeIn align-center"><strong>I am part of The Game Assembly’s internship program. As per the agreement between the Games Industry and The Game Assembly, neither student nor company may be in contact with one another regarding internships before April 23th.</strong></p>
-<p class="sqsrte-small preFade fadeIn align-center"><strong>Any internship offers can be made on May 6th, at the earliest.</strong></p>
 <p> </p>
             ]]>
         </content>
