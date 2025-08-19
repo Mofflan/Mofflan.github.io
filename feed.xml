@@ -3,7 +3,7 @@
     <title>MathiasPerez</title>
     <link href="https://Mofflan.github.io/feed.xml" rel="self" />
     <link href="https://Mofflan.github.io" />
-    <updated>2025-08-19T17:43:05+02:00</updated>
+    <updated>2025-08-19T18:25:41+02:00</updated>
     <author>
         <name>Mathias</name>
     </author>
@@ -235,7 +235,7 @@
         <id>https://Mofflan.github.io/fabrik-procedual-animation/</id>
         <media:content url="https://Mofflan.github.io/media/posts/10/leg.gif" medium="image" />
 
-        <updated>2025-08-11T14:34:21+02:00</updated>
+        <updated>2025-08-19T18:25:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Mofflan.github.io/media/posts/10/leg.gif" alt="" />
@@ -263,7 +263,7 @@
 <h4 id="mcetoc_1hs2jo15s2p">Intro</h4>
 <p class="" data-start="295" data-end="562">At The Game Assembly, students take a course called Specialization, where they choose an area of focus to explore in-depth. For my specialization, I chose procedural animation, specifically using the FABRIK (Forward and Backward Reaching Inverse Kinematics) method.</p>
 <p class="" data-start="564" data-end="856">My original plan was to create a procedurally animated spider in Unreal Engine. However, I ran into significant challenges with rigging and engine compatibility. After struggling for a few weeks, I decided to switch to Unity, which proved to be a more manageable environment for my project.</p>
-<h4 id="mcetoc_1hs2jo15s2q">What is FABRIK</h4>
+<h4 id="mcetoc_1hs2jo15s2q">What is FABRIK?</h4>
 <p>FABRIK, short for Forward and Backward Reaching Inverse Kinematics, is a powerful algorithm used in animation and robotics. Unlike traditional inverse kinematics methods, FABRIK iteratively adjusts bone positions in a way that creates smoother and more natural-looking motion. It allows for precise control of articulated structures, making it ideal for lifelike character movement.</p>
 <h5 id="mcetoc_1hs2jo15s2r">Why I pick procedual Animation as my specialization</h5>
 <p>I get so excited when i see awesome procedual animation, it's fascinating. Procedual animation breaks the rules of traditional animation and opens up more possibilities to do. I decieded to pick it because of my passion for animatoin.</p>
