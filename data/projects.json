@@ -53,7 +53,7 @@
       },
       "screenshots": [
         {
-          "src": "assets/pvj/animation3-3.gif",
+          "src": "assets/pvj/Animation3-3.gif",
           "caption": "Quiz Gameplay TEMP NEW ASSET COMMING SOON"
         }
       ]
@@ -120,7 +120,7 @@
         },
         "Tools": {
           "title": "Tools",
-          "contentFile": "content/Tools&Utilities/unity-tools-workflow/tools.html"
+          "contentFile": "content/Tools&Utilities/unity-tools-workflow/Tools.html"
         }
 
       },
@@ -145,7 +145,7 @@
         },
         "implementation": {
           "title": "Implementation",
-          "contentFile": "content/Tools&Utilities/fabrik/fabrik.html"
+          "contentFile": "content/Tools&Utilities/fabrik/FABRIK.html"
         }
 
       },
