@@ -1,0 +1,103 @@
+<h4>What is FABRIK?</h4>
+<p>
+  FABRIK (Forward And Backward Reaching Inverse Kinematics) is an iterative IK
+  algorithm for moving the end of a bone chain (like a hand or foot) to a target
+  while keeping each segment length intact. Instead of solving angles directly,
+  it performs a forward pass pulling joints toward the target and a backward
+  pass pulling them back toward the root. Repeating those passes until the end
+  effector is “close enough” gives a smooth, stable pose without heavy math.
+</p>
+
+<h4>Why I picked FABRIK</h4>
+<p>
+  Procedural animation always grabs my attention—it reacts, adapts and breaks
+  away from fixed keyframes. I chose FABRIK simply because I wanted to finally
+  build something I watched others experiment with years ago. Back then I didn’t
+  have the programming knowledge; this assignment was my chance to properly try
+  it and understand how a solver really behaves.
+</p>
+<p style="margin-top:-0.5rem;">
+  Inspiration video: <a href="https://www.youtube.com/watch?v=e6Gjhr1IP6w&t=1s" target="_blank" rel="noopener noreferrer">Procedural Animation Talk (YouTube)</a>
+</p>
+
+<h4>Implementation FABRIK</h4>
+<p>
+  I store the chain joints, run a forward reach toward the target, then a
+  backward reach toward the root, checking distance after each full cycle.
+  Early stop happens when the end effector is within a tolerance or the max
+  iteration count is hit. Simple, readable, and easy to experiment with.
+</p>
+  <p>
+  For debugging I wrote a <em>Bone Setup</em> script that draws each segment so I
+  could quickly see if a joint scale, offset, or parent transform was wrong. I
+  added quick color and size tweaks to highlight active joints or final pass.
+</p>
+  <p>
+  A hiccup I never solved: in one branch the mesh wouldn’t visually rotate even
+  though the bones updated (likely a rig import or skin binding quirk). Since I
+  had already met the assignment goals and digging deeper stopped being fun, I
+  chose not to chase that rabbit hole further.
+</p>
+  <p>Here’s a small piece of the setup shown below.</p>
+
+<div class="code-screenshot" style="max-width:520px;margin:0.85rem 0;">
+  <h5 style="margin:0 0 0.4rem;">Bone Debug Visualization</h5>
+  <img src="assets/fabrik/RenderBones.png" alt="Rendered bones debug overlay" style="display:block;width:100%;height:auto;border-radius:6px;cursor:pointer;" class="clickable-image" onclick="openLightbox([{src:'assets/fabrik/RenderBones.png',caption:'Bone debug visualization'}],0)">
+  <p style="margin:0.4rem 0 0;font-size:0.75rem;color:#cfcfcf;">Custom Bone Setup script drawing each segment for iteration and offset checks.</p>
+</div>
+
+<div class="code-screenshot" style="max-width:520px;margin:0.85rem 0;">
+  <h5 style="margin:0 0 0.4rem;">Solver Snippet (Excerpt)</h5>
+  <img src="assets/fabrik/Somecode.png" alt="code" style="display:block;width:100%;height:auto;border-radius:6px;cursor:pointer;" class="clickable-image" onclick="openLightbox([{src:'assets/fabrik/Somecode.png',caption:'Render Bones code'}],0)">
+  <p style="margin:0.4rem 0 0;font-size:0.75rem;color:#cfcfcf;">Render bones script.</p>
+</div>
+
+
+<h4>Code Inspiration & Structure</h4>
+<p>
+  This build combines: a Unity Asset Store IK sample (chain handling), concepts
+  from Unity’s Animation Rigging package (target / constraint pattern), and a
+  lightweight bone renderer I wrote to visualize iteration passes in real time.
+  Seeing the chain redraw each pass made mistakes (scale issues, wrong parent,
+  offset drift) obvious and sped up tuning.
+</p>
+<p style="margin:0 0 0.6rem;">Simplified hierarchy:</p>
+<pre style="background:#111;padding:0.75rem 1rem;border-radius:6px;overflow:auto;font-size:0.75rem;line-height:1.3;">
+Character
+ └─ Root_jnt
+     ├─ sk_character
+     └─ Rig1
+         ├─ LeftLeg   (IK component)
+         │   └─ Target (driver script)
+         ├─ RightLeg  (IK component)
+         │   └─ Target
+         ├─ LeftArm   (IK component)
+         │   └─ Target
+         └─ RightArm  (IK component)
+             └─ Target
+</pre>
+
+
+  <h4>Conclusion</h4>
+  <p>
+   This specialization gave me a clearer mental model of iterative solvers,
+   how chain ordering and transforms affect stability, and how valuable
+   visualization tools are. I could have kept polishing (fixing the mesh
+   rotation quirk, adding joint limits, foot pinning etc.) but after
+   completing the assignment I realized pushing it further no longer felt
+   rewarding. That helped me learn something else: which kinds of technical
+   problems keep me engaged long term.
+  </p>
+        <h4>Animation Tests</h4>
+        <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:0.75rem 0;">
+          <div class="code-screenshot" style="flex:1 1 240px;max-width:320px;">
+            <h5 style="margin:0 0 0.4rem;">Leg Solver (Iteration Demo)</h5>
+            <img src="assets/fabrik/leg-2.gif" alt="FABRIK leg chain solving iterations" style="display:block;width:100%;height:auto;border-radius:6px;cursor:pointer;" class="clickable-image" onclick="openLightbox([{src:'assets/fabrik/leg-2.gif',caption:'Leg chain FABRIK iteration'}],0)">
+            <p style="margin:0.4rem 0 0;font-size:0.7rem;color:#cfcfcf;">Leg chain reaching moving target with convergence behavior.</p>
+          </div>
+          <div class="code-screenshot" style="flex:1 1 240px;max-width:320px;">
+            <h5 style="margin:0 0 0.4rem;">Arm Reach Test</h5>
+            <img src="assets/fabrik/arm.gif" alt="FABRIK arm reaching target" style="display:block;width:100%;height:auto;border-radius:6px;cursor:pointer;" class="clickable-image" onclick="openLightbox([{src:'assets/fabrik/arm.gif',caption:'Arm reach FABRIK test'}],0)">
+            <p style="margin:0.4rem 0 0;font-size:0.7rem;color:#cfcfcf;">Arm solver adjusting joints smoothly toward target.</p>
+          </div>
+        </div>

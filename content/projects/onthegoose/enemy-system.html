@@ -1,0 +1,22 @@
+<h4>Enemy System</h4>
+<p>
+  In this project, the enemies are turret-like units that fire arrows behaving
+  like hitscan projectiles. To simulate pressure without unpredictable unfair
+  spikes, we use an invisible pursuing orb that constantly chases the player.
+  When it reaches the player, damage is applied and the orb resets to its
+  starting slot in a path/list. This works like a soft timer that rewards
+  momentum: the orb's speed and tether distance scale dynamically with the
+  player's current velocity.<br><br> The enemy accuracy system is intentionally tuned
+  for immersion: as the player moves faster, aim cone error widens so shots
+  visually "miss" more often, reinforcing a feeling of narrowly dodging rather
+  than pure RNG. This keeps combat readable while supporting the parkour focus.
+</p>
+
+<div class="code-screenshot" style="margin-top:1rem;">
+  <h4>Enemy Aim Demonstration</h4>
+  <div class="item" style="max-width:420px;margin:0 auto;">
+    <img src="assets/onthegoose/Aim.gif" alt="Enemy adaptive aim and miss compensation" class="clickable-image" onclick="openLightbox([{src:'assets/onthegoose/Aim.gif',caption:'Adaptive aim: wider miss spread at higher player speed'}],0)" />
+    <div class="caption" style="text-align:center;font-size:0.85rem;color:#cfcfcf;margin-top:0.4rem;">Adaptive aim & miss spread (player speed influencing accuracy)</div>
+  </div>
+  <p style="text-align:center;margin-top:0.6rem;font-size:0.75rem;color:#aaa;">Click the GIF to view it larger</p>
+</div>

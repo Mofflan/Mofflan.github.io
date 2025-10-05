@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mathias Perez - Game Programmer</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Jersey+10&family=Jersey+15&display=swap" rel="stylesheet">
+
+</head>
+<body id="top">
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-content">   
+        <div class="nav-container">
+            <a href="#top" class="nav-brand-link" aria-label="Home">
+                <img src="assets/images/Skipper.png" alt="Home" class="nav-brand-img">
+            </a>
+            <ul class="nav-links">
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#about">About me</a></li>
+                <li><a href="#contact">Contact</a></li>
+
+            </ul>
+            </div>
+        </div>
+    
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-content">
+            <p class="hero-eyebrow">Welcome to my portfolio!</p>
+            <h1 class="hero-name">Mathias Perez Bustos</h1>
+            <h2 class="hero-title">Game Programmer</h2>
+            <p class="hero-subtitle">C++ • C# • Gameplay • System </p>
+            <div class="hero-buttons">
+                <a href="#projects" class="btn btn-primary">View My Work</a>
+                <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+            </div>
+        </div>
+        
+    </header>
+
+<!-- Projects + About shared background wrapper -->
+<div class="projects-area">
+<!-- Projects Section -->
+<section id="projects" class="projects">
+    <div class="container">
+        <h2 class="section-title">Game Projects</h2>
+        <div class="projects-grid">
+
+
+        <!-- Project 1 Jakten På Pannkakstårta -->
+        <!-- data-project-id="jaktenpancakes" DATA PROJECT ID IS IMPORTANT FOR JS -->
+        <div class="project-card" data-project-id="jaktenpancakes" data-project="jaktenpancakes">
+            <div class="project-media" data-engine="FriendshipEngine">
+                <img src="assets/jaktenpannkakor/gifpannkakstorta-2.gif" alt="Jakten På Pannkakstårta thumbnail" loading="lazy">
+            </div>
+            <div class="project-info">
+                <div class="project-title">
+                    <h3>Jakten På Pannkakstårta</h3>
+                    <span class="engine-badge" data-engine="FriendshipEngine" aria-label="Friendship Engine" title="Friendship Engine" data-tooltip="Friendship Engine" tabindex="0"></span>
+                </div>
+                <div class="tech-tags">
+                    <span class="tech-tag" data-tooltip="Movement, Combat, Statemachine" tabindex="0">Player Controller</span>
+                    <span class="tech-tag" data-tooltip="UI flow, branching dialogue, Display emotions on Characters" tabindex="0">Dialogue System</span>
+                </div>
+                <p>Pannkakstårtan, a <strong>top-down adventure RPG</strong>, marked my fourth game project during my time at <strong>The Game Assembly</strong>. With a team of <strong>5 programmers, 4 artists, and 2 designers</strong>, we collaborated over the span of <strong>8 weeks</strong>. We used TGE school's own <strong>framework</strong> and <strong>Unity</strong> as our level editor.</p>
+                <div class="project-links">
+                    <!-- <a href="https://github.com/yourusername/space-shooter" class="project-link">View Source Code</a> -->
+                    <!-- <a href="https://despacitos.itch.io/pannkakstartan" class="project-link" target="_blank" rel="noopener noreferrer"> Itch.io </a> -->
+                    <a href=" " class="project-link">View Details</a>
+                </div>
+            </div>
+        </div>
+
+            <!-- Project 2 PVJ -->
+            <div class="project-card" data-project-id="PVJ" data-project="PVJ">
+                <div class="project-media" data-engine="Unity">
+                    <img src="assets/pvj/Animation-3.gif" alt="PVJ Customization thumbnail" loading="lazy">
+                </div>
+                <div class="project-info">
+                    <div class="project-title">
+                        <h3>Pax Viking Junior</h3>
+                        <span class="engine-badge" data-engine="Unity" aria-label="Unity Engine" title="Unity Engine" data-tooltip="Unity Engine" tabindex="0"></span>
+                    </div>
+                    <div class="tech-tags">
+                        <span class="tech-tag" data-tooltip="Coordinated tasks, code reviews" tabindex="0">Team Lead</span>
+                        <span class="tech-tag" data-tooltip="Character/asset configuration" tabindex="0">Customization System</span>
+                        <span class="tech-tag" data-tooltip="Serialization, versioning, persistence" tabindex="0">Save System</span>
+                        <span class="tech-tag" data-tooltip="Hub/Lobby Control" tabindex="0">Hub/Lobby</span>
+                        <span class="tech-tag" data-tooltip="JSON Access Tool" tabindex="0">JSON Utility</span>
+
+                    </div>
+                    <p> I completed an <strong>8-month internship</strong> at <strong>ION Game Design</strong>, where I was promoted to <strong>Team Lead</strong>, managing a cross-disciplinary team of ~10 members, including <strong>programmers</strong>, <strong>2D/3D artists</strong>, and <strong>technical artists</strong> </p>
+                    
+                    <div class="project-links">
+                        <a href="https://gist.github.com/Mofflan/22ef8bc9ac2ce495f681aee3d8bad353" class="project-link">View Source Code</a>
+                        <a href=" " class="project-link">View Details</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project 3 bergtagen-->
+            <div class="project-card" data-project-id="bergtagen" data-project="bergtagen">
+                <div class="project-media" data-engine="Unreal">
+                    <img src="assets/bergtagen/rotate.gif" alt="tyra procedural thumbnail" loading="lazy">
+                </div>
+                <div class="project-info">
+                    <div class="project-title">
+                        <h3>Bergtagen</h3>
+                        <span class="engine-badge" data-engine="Unreal" aria-label="Unreal Engine" title="Unreal Engine" data-tooltip="Unreal Engine" tabindex="0"></span>
+                    </div>
+                    <div class="tech-tags">
+                        <span class="tech-tag" data-tooltip="Gameplay scripting language" tabindex="0">Angel Script</span>
+                        <span class="tech-tag" data-tooltip="Runtime IK, math-driven motion" tabindex="0">Procedural Animation</span>
+                        <span class="tech-tag" data-tooltip="Animation blending" tabindex="0">Animation Montages</span>
+                        <span class="tech-tag" data-tooltip="postprocessing effects and flashlight functionality" tabindex="0">NightVision/Flashlight</span>
+
+                    </div>
+                    <p>Bergtagen, a <strong>first-person horror</strong> game, was developed over <strong>8 weeks</strong> (40h/week). The team consisted of <strong>6 programmers, 5 artists, and 3 level designers</strong>, and the project was built using <strong>Unreal Engine 5</strong>.</p>
+                    <div class="project-links">
+                        <!-- <a href="https://github.com/yourusername/ai-system" class="project-link">View Source Code</a> -->
+                           <a href=" " class="project-link">View Details</a>
+                    </div>
+                </div>
+            </div>
+             <!-- Project 4 on the goose -->
+            <div class="project-card" data-project-id="onthegoose" data-project="onthegoose">
+                <div class="project-media" data-engine="FriendshipEngine">
+                    <img src="assets/onthegoose/thumbnail.gif" alt="Friendship Engine thumbnail" loading="lazy">
+                </div>
+                <div class="project-info">
+                    <div class="project-title">
+                        <h3>On The Goose</h3>
+                        <span class="engine-badge" data-engine="FriendshipEngine" aria-label="Friendship Engine" title="Friendship Engine" data-tooltip="Friendship Engine" tabindex="0"></span>
+                    </div>
+                    <div class="tech-tags">
+                        <span class="tech-tag" data-tooltip="C++ Project" tabindex="0">C++</span>
+                        <span class="tech-tag" data-tooltip="Smooth Camera System" tabindex="0">Smooth Camera System</span>
+                        <span class="tech-tag" data-tooltip="Simple AI behavior and logic" tabindex="0">Enemy System</span>
+                        </div>
+                    <p>On The Goose is a first-person parkour platformer made in <strong>15 weeks</strong> (20h/week) by <strong>6 programmers, 5 artists, 3 level designers</strong> using our custom Friendship Engine 2.0 (DirectX 11, ECS). I built a smooth <strong>first-person camera</strong> (lean, head‑bob, wall‑run), and early <strong>enemy behaviors</strong> to support fast traversal.</p>
+                    <div class="project-links">
+                        <!-- <a href="https://github.com/yourusername/on-the-goose" class="project-link">View Source Code</a> -->
+                           <a href=" " class="project-link">View Details</a>
+                        </div>
+                </div>
+
+             </div>
+
+
+            </div> <!-- /.projects-grid -->
+            <!-- Unity Tools Workflow card -->
+            <h2 class="section-title" id="tools">Tools & Systems</h2>
+            <div class="projects-grid">
+                <div class="project-card" data-project-id="unity-tools-workflow" data-project="unity-tools-workflow">
+                    <div class="project-media" data-engine="Unity">
+                        <img src="assets/bday1947/MoveFolder-2-2.gif" alt="Unity Tools thumbnail" loading="lazy">
+                    </div>
+                    <div class="project-info">
+                        <div class="project-title">
+                            <h3>Unity Tools - Workflow</h3>
+                            <span class="engine-badge" data-engine="Unity" aria-label="Unity Engine" title="Unity Engine" data-tooltip="Unity Engine" tabindex="0"></span>
+                        </div>
+                        <div class="tech-tags">
+                            <span class="tech-tag" data-tooltip="Unity editor scripting" tabindex="0">C#</span>
+                            <span class="tech-tag" data-tooltip="Inspector/Editor workflows" tabindex="0">Editor Tooling</span>
+                            <span class="tech-tag" data-tooltip="EXE startup" tabindex="0">EXE startup</span>
+                        </div>
+                                                <p>B-day 1947 (point & click puzzle, <strong>4 weeks</strong>, 6 programmers / 5 artists / 3 level designers) – I built <strong>workflow tools: </strong> asset & folder organizers, quick move/rename, EXE startup helpers and others tools for everyone</p>
+                        <div class="project-links">
+                            <!-- <a href="https://github.com/yourusername/unity-tools" class="project-link">View Source Code</a> -->
+                            <a href=" " class="project-link">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- FABRIK card -->
+                <div class="project-card" data-project-id="fabrik" data-project="fabrik">
+                    <div class="project-media" data-engine="Unity Engine">
+                        <img src="assets/fabrik/leg.gif" alt="showing leg animation" loading="lazy">
+                    </div>
+                    <div class="project-info">
+                        <div class="project-title">
+                            <h3>FABRIK - Procedural Animation System</h3>
+                            <span class="engine-badge" data-engine="Unity" title="unity-tools" data-tooltip="Unity Engine" tabindex="0"></span>
+                        </div>
+                        <div class="tech-tags">
+                            <span class="tech-tag" data-tooltip="Prototype discontinued" tabindex="0">Abandoned</span>
+                            <span class="tech-tag" data-tooltip="Implementation language" tabindex="0">C#</span>
+                        </div>
+                        <p>Implemented a FABRIK IK solver with live debug bone rendering and procedural limb tests (leg & arm) to explore animation without keyframed clips.</p>
+                        <div class="project-links">
+                            <!-- <a href="#" class="project-link">View Source Code</a> -->
+                            <a href=" " class="project-link">View Details</a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div> <!-- /.projects-grid -->
+        </div> <!-- /.container -->
+    </section>
+
+<!-- About Section (inside shared background) -->
+<section id="about" class="about">
+    <div class="container">
+        <h2 class="section-title">About Me</h2>
+        <div class="about-content">
+            <div class="about-profile">
+                <div class="profile-image-container">
+                    <img src="assets/images/profilepicture.png" alt="Mathias Perez" class="profile-image">
+                    <div class="profile-overlay">
+                        <span>Game Programmer</span>
+                    </div>
+                </div>
+            </div>
+            <div class="about-text">
+                <p class="about-intro">Hello! My name is Mathias Perez Bustos, and I'm a passionate programmer who loves creating games with a team of friends. While I primarily focus on front-end development, I occasionally dabble in back-end tasks as well. One of my favorite projects was "Jakten på Pannkakstårta," where I had the opportunity to work on the dialogue system and romance aspects of the game.<br>
+My love for gaming started at a very young age. One of my earliest memories is playing a Spider-Man game while wearing gloves that resembled the superhero's iconic suit. Since then, gaming has been big part of my life. During my free time, you'll often find me browsing on my computer or engaging in gaming nights with friends, which have become a cherished evening ritual.<br>
+Recently, I've also discovered a new passion: playing Magic: The Gathering with my friends. I have been borrowing my friends dinosaour deck.<br>
+As a programmer, I'm constantly seeking opportunities to learn and grow. I thrive in collaborative environments where I can contribute my skills and ideas to create immersive and engaging gaming experiences. If you're looking for a dedicated and enthusiastic team member who is committed to bringing virtual worlds to life, I'd love to connect with you!</p>
+                
+                <div class="skills-showcase">
+                    <div class="skills-category">
+                        <h3>Skills</h3>
+                        <div class="skills-tags">
+                            <span class="skill-tag">C++</span>
+                            <span class="skill-tag">C#</span>
+                            <span class="skill-tag">Unity Engine</span>
+                            <span class="skill-tag">Unreal Engine - AngelScript</span>
+                            <span class="skill-tag">Gameplay/Systems</span>
+                               <span class="skill-tag">Git & Perforce</span>
+                            <span class="skill-tag">Visual Studio</span>
+                            <span class="skill-tag">JetBrains Rider</span>
+                            <span class="skill-tag">Agile/SCRUM</span>
+                            <!-- <span class="skill-tag">Performance Optimization</span> -->
+                        </div>
+                    </div>
+                    
+                    <!-- <div class="skills-category">
+                        <h3>⚡ Technical Expertise</h3>
+                        <div class="skills-tags">
+                            <span class="skill-tag">Player Controllers</span>
+                            <span class="skill-tag">AI Programming</span>
+                            <span class="skill-tag">Animation Systems</span>
+                            <span class="skill-tag">Tools Development</span>
+                            <span class="skill-tag">Multiplayer</span>
+                            <span class="skill-tag">Physics</span>
+                        </div>
+                    </div> -->
+                    
+                    <!-- <div class="skills-category">
+                        <h3>Development Tools</h3>
+                        <div class="skills-tags">
+                            <span class="skill-tag">Git & Perforce</span>
+                            <span class="skill-tag">Visual Studio</span>
+                            <span class="skill-tag">JetBrains Rider</span>
+                            <span class="skill-tag">Agile/SCRUM</span> -->
+                            <!-- <span class="skill-tag">Blender</span> -->
+                        </div>
+                    </div>
+                </div>
+                
+            <div class="hobbies-section">
+                    <h3>🎮 Personal Interests</h3>
+                    <div class="hobbies-grid">
+                        <div class="hobby-item">
+                            <span class="hobby-icon">🎹</span>
+                            <span class="hobby-text">Playing Piano</span>
+                        </div>
+                        <div class="hobby-item">
+                            <span class="hobby-icon">👾</span>
+                            <span class="hobby-text">Playing Games</span>
+                        </div>
+                        <div class="hobby-item">
+                            <span class="hobby-icon">✏️</span>
+                            <span class="hobby-text">Drawing</span>
+                        </div>
+                        <div class="hobby-item">
+                            <span class="hobby-icon">🧊</span>
+                            <span class="hobby-text">Blender</span>
+                        </div>
+                       <div class="hobby-item">
+                            <span class="hobby-icon">🎲</span>
+                            <span class="hobby-text">Board Games</span>
+                        </div>
+                         <div class="hobby-item">
+                            <span class="hobby-icon">🍳</span>
+                            <span class="hobby-text">Cooking</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Section (moved inside shared background wrapper) -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <div class="contact-content">
+                <p>Interested in collaborating or have questions about my work?</p>
+                <div class="contact-links">
+                    <a href="mailto:mathias.perezbustos@hotmail.com" class="contact-link">Email</a>
+                    <a href="https://github.com/Mofflan" class="contact-link" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    <a href="https://linkedin.com/in/mathias-perez-bustos/" class="contact-link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://despacitos.itch.io/" class="contact-link" target="_blank" rel="noopener noreferrer">Itch.io</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    </div> <!-- /.projects-area -->
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Mati - OH YEAH BABY.</p>
+        </div>
+    </footer>
+
+<!-- MODAL STRUCTURE - UPDATED -->
+<div id="projectModal" class="modal">
+    <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <div class="modal-header">
+            <img id="modalBanner" src="" alt="Project Banner" class="modal-banner">
+            <div class="modal-title-section">
+                <h2 id="modalTitle"></h2>
+                <span id="modalEngine" class="engine-badge-modal"></span>
+            </div>
+        </div>
+        <div class="modal-body">
+            <div class="modal-description">
+                <h3>Project Overview</h3>
+                <p id="modalDescription"></p>
+            </div>
+            <div class="modal-screenshots" id="modalScreenshots">
+                <h3>Screenshots & Features</h3>
+                <div class="screenshots-grid" id="screenshotsGrid"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- LIGHTBOX MODAL -->
+<div id="lightboxModal" class="lightbox-modal">
+    <span class="close-lightbox">&times;</span>
+    <div class="lightbox-content">
+        <img id="lightboxImage" src="" alt="Full size image">
+        <div class="lightbox-caption" id="lightboxCaption"></div>
+    </div>
+    <div class="lightbox-nav">
+        <button class="lightbox-prev" id="lightboxPrev">❮</button>
+        <button class="lightbox-next" id="lightboxNext">❯</button>
+    </div>
+</div>
+<div class="modal-tabs-sidebar" id="modalTabsSidebar">
+    <h4>Navigation</h4>
+    <!-- Tab buttons will be populated by JavaScript -->
+</div>
+    <script src="scripts.js"></script>
+</body>
+</html>

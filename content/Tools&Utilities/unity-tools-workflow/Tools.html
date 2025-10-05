@@ -1,0 +1,40 @@
+
+
+<h4>Game Startup Tool</h4>
+<p>
+  This tool simplifies the game startup process by initiating gameplay with the
+  click of a button. It offers the flexibility to select between debug, release,
+  or retail modes, automatically building the project before launching the
+  executable file.
+</p>
+<div class="code-screenshot" style="max-width:480px;margin:0.75rem 0;">
+  <h5 style="margin-top:0;">Startup Modes UI</h5>
+  <img src="assets/bday1947/startup.png" alt="Game startup tool UI with build mode options" style="display:block;width:100%;height:auto;border-radius:6px;cursor:pointer;" class="clickable-image" onclick="openLightbox([{src:'assets/bday1947/startup.png',caption:'Game Startup Tool'}],0)" />
+  <p style="margin:0.5rem 0 0;font-size:0.8rem;color:#cfcfcf;">Single click: choose build profile → auto build → launch executable</p>
+</div>
+
+
+<h4>Moving X amount of objects to a folder</h4>
+<p>
+  This tool allows users to select multiple objects in the Unity editor and
+  move them to a specified folder with a single click, streamlining the
+  organization of project assets.
+</p>
+<div class="code-screenshot" style="max-width:480px;margin:0.75rem 0;">
+  <h5 style="margin-top:0;">Batch Move Helper</h5>
+  <img src="assets/bday1947/MoveFolder-2-2.gif" alt="Tool moving selected objects into target folder" style="display:block;width:100%;height:auto;border-radius:6px;cursor:pointer;" class="clickable-image" onclick="openLightbox([{src:'assets/bday1947/MoveFolder-2-2.gif',caption:'Batch Move Helper'}],0)" />
+  <p style="margin:0.5rem 0 0;font-size:0.8rem;color:#cfcfcf;">Reduces manual drag & drop and keeps hierarchy clean</p>
+</div>
+
+<h4>Easy start of the day tool button</h4>
+<p>
+  I created a "Daily Click" export button to solve a painful repetition: we used
+  Unity purely as a level editor and exported level data (JSON) into our
+  Friendship Engine. Unity regenerated instance IDs each day, so manually
+  exporting every level one by one was slow and error-prone. The Daily Click
+  button iterated all level scenes and produced fresh JSON for each in one go—
+  including scene name, entity instance IDs, object names, transforms, box
+  collider data, and other metadata. This let the whole team press one button at
+  the start of the day and immediately sync consistent data, instead of doing
+  dozens of individual exports.
+</p>
