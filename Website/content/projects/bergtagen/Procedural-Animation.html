@@ -1,0 +1,55 @@
+<h4>Procedural Animation</h4>
+
+<p>
+  For this project, I developed several procedural animations for the player
+  because I was interested in exploring this aspect for our final assignment.
+  The procedural animations I created allow the character to rotate using its
+  entire body. The character's left arm functions as an interaction indicator,
+  hovering in front of the player when there's an interactable object.
+  Additionally, I implemented a feature where the character's head moves with
+  the camera. Unfortunately, the head procedural animation stopped working in
+  the final week, and I didn't have time to fix it. To see all the procedural
+  animations, please refer to the GIFs below.<br><br> At the beginning of the project, I
+  needed to learn a lot about procedural animation and Unreal Engine 5. I
+  conducted extensive research to start creating something early on. If I
+  succeeded, we could implement procedural animation; otherwise, we wouldn't. To
+  avoid wasting time waiting for our character with everything setup, I asked my
+  friend Tyra, a game graphic artist, if I could borrow a character she had
+  made. She was very kind for allowing me to use her character.<br><br> Shoutout to Tyra
+  for her support! Check out her amazing work at <a href="https://toadean.artstation.com/" target="_blank" rel="noopener noreferrer">Tyra's Portfolio</a>
+</p>
+<!-- Lightbox array is inlined per image onclick to ensure functionality when this HTML is injected dynamically -->
+<!-- Order: 0 tyramed, 1 tyrautan, 2 interactarm, 3 newrotate, 4 interactarmfpos -->
+
+<div class="code-screenshot" style="margin-bottom:1.5rem;">
+  <h4>Character Reference (Tyra’s Model)</h4>
+  <div class="code-screenshot-gallery" style="grid-template-columns:repeat(2,minmax(0,1fr));">
+    <div class="item">
+  <img src="assets/bergtagen/tyramed.gif" alt="Tyra model medium" class="clickable-image" onclick="openLightbox([{src:'assets/bergtagen/tyramed.gif',caption:'Tyra character –  turnaround procedural'},{src:'assets/bergtagen/tyrautan.gif',caption:'Tyra character – No procedural'},{src:'assets/bergtagen/interactarm.gif',caption:'Interact arm indicator active'},{src:'assets/bergtagen/newrotate.gif',caption:'Full body rotation procedural motion'},{src:'assets/bergtagen/interactarmfpos.gif',caption:'Interact arm FPos variant'}],0)" />
+      <div class="caption">procedural animation</div>
+    </div>
+    <div class="item">
+  <img src="assets/bergtagen/tyrautan.gif" alt="Tyra model turnaround" class="clickable-image" onclick="openLightbox([{src:'assets/bergtagen/tyramed.gif',caption:'Tyra character - turnaround procedural'},{src:'assets/bergtagen/tyrautan.gif',caption:'Tyra character – No procedural'},{src:'assets/bergtagen/interactarm.gif',caption:'Interact arm indicator active'},{src:'assets/bergtagen/newrotate.gif',caption:'Full body rotation procedural motion'},{src:'assets/bergtagen/interactarmfpos.gif',caption:'Interact arm FPos variant'}],1)" />
+      <div class="caption">without procedural animation</div>
+    </div>
+  </div>
+</div>
+
+<div class="code-screenshot">
+  <h4>Procedural Animation Examples</h4>
+  <div class="code-screenshot-gallery" style="grid-template-columns:repeat(auto-fit,minmax(180px,1fr));">
+    <div class="item">
+  <img src="assets/bergtagen/interactarm.gif" alt="Interact arm" class="clickable-image" onclick="openLightbox([{src:'assets/bergtagen/tyramed.gif',caption:'Tyra character – medium render'},{src:'assets/bergtagen/tyrautan.gif',caption:'Tyra character – turnaround'},{src:'assets/bergtagen/interactarm.gif',caption:'Interact arm indicator active'},{src:'assets/bergtagen/newrotate.gif',caption:'Full body rotation procedural motion'},{src:'assets/bergtagen/interactarmfpos.gif',caption:'Interact arm FPos variant'}],2)" />
+      <div class="caption">Interact Arm</div>
+    </div>
+    <div class="item">
+  <img src="assets/bergtagen/newrotate.gif" alt="Rotate procedural" class="clickable-image" onclick="openLightbox([{src:'assets/bergtagen/tyramed.gif',caption:'Tyra character – medium render'},{src:'assets/bergtagen/tyrautan.gif',caption:'Tyra character – turnaround'},{src:'assets/bergtagen/interactarm.gif',caption:'Interact arm indicator active'},{src:'assets/bergtagen/newrotate.gif',caption:'Full body rotation procedural motion'},{src:'assets/bergtagen/interactarmfpos.gif',caption:'Interact arm FPos variant'}],3)" />
+      <div class="caption">Body Rotation</div>
+    </div>
+    <div class="item">
+  <img src="assets/bergtagen/interactarmfpos.gif" alt="Interact arm FPos" class="clickable-image" onclick="openLightbox([{src:'assets/bergtagen/tyramed.gif',caption:'Tyra character – medium render'},{src:'assets/bergtagen/tyrautan.gif',caption:'Tyra character – turnaround'},{src:'assets/bergtagen/interactarm.gif',caption:'Interact arm indicator active'},{src:'assets/bergtagen/newrotate.gif',caption:'Full body rotation procedural motion'},{src:'assets/bergtagen/interactarmfpos.gif',caption:'Interact arm FPos variant'}],4)" />
+      <div class="caption">FPos Variant</div>
+    </div>
+  </div>
+  <p style="text-align:center;margin-top:0.6rem;font-size:0.85rem;color:#aaa;">Click any image to open the gallery</p>
+</div>
