@@ -560,7 +560,7 @@ async function openProjectModal(projectCard) {
     engineBadge.className = 'engine-badge-modal';
     engineBadge.setAttribute('data-engine', engine);
     if (engine === 'FriendshipEngine') {
-        engineBadge.style.backgroundImage = `url('assets/icons/Friendshiplogo.svg')`;
+        engineBadge.style.backgroundImage = `url('assets/icons/friendshiplogo.svg')`;
     } else {
         engineBadge.style.backgroundImage = `url('assets/icons/white${engine.toLowerCase()}.svg')`;
     }

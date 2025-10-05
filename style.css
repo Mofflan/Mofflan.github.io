@@ -593,7 +593,7 @@ nav::before {
 }
 .engine-badge[data-engine="Unity"] { background-image: url('assets/icons/whiteunity.svg'); }
 .engine-badge[data-engine="Unreal"] { background-image: url('assets/icons/whiteunreal.svg'); }
-.engine-badge[data-engine="FriendshipEngine"] { background-image: url('assets/icons/Friendshiplogo.svg'); }
+.engine-badge[data-engine="FriendshipEngine"] { background-image: url('assets/icons/friendshiplogo.svg'); }
 .engine-badge:not([data-engine="Unity"]):not([data-engine="Unreal"]):not([data-engine="FriendshipEngine"]) {
     width: auto;
     height: auto;

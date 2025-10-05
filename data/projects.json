@@ -54,7 +54,7 @@
       "screenshots": [
         {
           "src": "assets/pvj/Animation3-3.gif",
-          "caption": "Quiz Gameplay TEMP NEW ASSET COMMING SOON"
+          "caption": "Temp"
         }
       ]
 
@@ -116,11 +116,11 @@
       "sections": {
         "overview": {
           "title": "Overview",
-          "contentFile": "content/Tools&Utilities/unity-tools-workflow/overview.html"
+          "contentFile": "content/Tools&Systems/unity-tools-workflow/overview.html"
         },
         "Tools": {
           "title": "Tools",
-          "contentFile": "content/Tools&Utilities/unity-tools-workflow/Tools.html"
+          "contentFile": "content/Tools&Systems/unity-tools-workflow/Tools.html"
         }
 
       },
@@ -141,11 +141,11 @@
       "sections": {
         "overview": {
           "title": "Overview",
-          "contentFile": "content/Tools&Utilities/fabrik/overview.html"
+          "contentFile": "content/Tools&Systems/FABRIK/overview.html"
         },
         "implementation": {
           "title": "Implementation",
-          "contentFile": "content/Tools&Utilities/fabrik/FABRIK.html"
+          "contentFile": "content/Tools&Systems/FABRIK/FABRIK.html"
         }
 
       },
