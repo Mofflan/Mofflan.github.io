@@ -68,11 +68,11 @@
         },
         "AngelScript": {
           "title": "AngelScript Integration",
-          "contentFile": "content/projects/bergtagen/angelscript.html"
+          "contentFile": "content/projects/bergtagen/AngelScript.html"
         },
         "procedural-animation": {
           "title": "Procedural Animation",
-          "contentFile": "content/projects/bergtagen/procedural-animation.html"
+          "contentFile": "content/projects/bergtagen/Procedural-Animation.html"
         }
       },
       "screenshots": [
